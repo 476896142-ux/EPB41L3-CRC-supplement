@@ -1,0 +1,17 @@
+# 直接读取已核验的 RCTD 表格组图，不重新估计权重或相关系数。
+suppressPackageStartupMessages({library(ggplot2);library(patchwork)})
+out <- "D:/Bioinfor/colorectal/GSE225857_spatial/rctd_results"
+a <- read.csv(file.path(out,"gene_RCTD_correlations.csv"))
+b <- read.csv(file.path(out,"RCTD_marker_concordance.csv"))
+a$gene <- factor(a$gene,levels=c("EPB41L3","KLB","ANGPTL1"))
+order <- c("SPP1_myeloid","Smooth_muscle","Myeloid","Stromal","Epithelial")
+a$cell_type <- factor(a$cell_type,levels=order)
+b$cell_type <- factor(b$cell_type,levels=order[-1])
+labels <- c(Epithelial="Epithelial",Stromal="Stromal",Myeloid="Myeloid",Smooth_muscle="Smooth muscle",SPP1_myeloid="SPP1+ myeloid")
+theme_common <- theme_minimal(base_size=11)+theme(panel.grid=element_blank(),axis.title=element_blank(),axis.text=element_text(colour="#303840"),strip.text=element_text(face="bold",size=11),plot.title=element_text(face="bold",size=12),legend.position="bottom",plot.margin=margin(8,10,8,8))
+p_a <- ggplot(a,aes(gene,cell_type,fill=depth_adjusted_rank_rho))+geom_tile(colour="white",linewidth=.7)+geom_text(aes(label=sprintf("%.2f",ifelse(abs(depth_adjusted_rank_rho)<0.005,0,depth_adjusted_rank_rho))),size=3.3)+facet_wrap(~sample,ncol=2)+scale_y_discrete(labels=labels)+scale_fill_gradient2(low="#456DA5",mid="#FAFAFA",high="#C65D50",limits=c(-1,1),breaks=c(-1,0,1))+theme_common+theme(axis.text.x=element_text(angle=35,hjust=1))+labs(title="A  Gene-cell associations",fill="Depth-adjusted rank correlation")
+p_b <- ggplot(b,aes(sample,cell_type,fill=RCTD_marker_rho))+geom_tile(colour="white",linewidth=.7)+geom_text(aes(label=sprintf("%.2f",RCTD_marker_rho)),size=3.6)+scale_y_discrete(labels=labels)+scale_fill_gradient(low="#F4F0EB",high="#258F8A",limits=c(0,1),breaks=c(0,.5,1))+theme_common+labs(title="B  Marker-expression concordance",fill="Spearman correlation")
+p <- p_a+p_b+plot_layout(widths=c(1.5,1))
+ggsave(file.path(out,"Figure_RCTD_R2_R3_combined.pdf"),p,width=12,height=6,device=cairo_pdf)
+ggsave(file.path(out,"Figure_RCTD_R2_R3_combined.png"),p,width=12,height=6,dpi=300,bg="white")
+stopifnot(nrow(a)==60,nrow(b)==16)

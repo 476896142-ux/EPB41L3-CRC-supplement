@@ -1,0 +1,69 @@
+"sample","cell_type","mean_weight"
+"C1","B cells",0.0172491140422104
+"C1","Epithelial cells",0.83149045244889
+"C1","Myeloids: Pro-inflammatory",0.00138364013062807
+"C1","Myeloids: Proliferating",0.00868968652817726
+"C1","Myeloids: SPP1+",0.00473838006183367
+"C1","Myeloids: Unknown",0.00314100487820404
+"C1","Myeloids: cDC",0.00396133710230241
+"C1","Stromal cells",0.000675434678042755
+"C1","Stromal cells: Myofibroblasts",0.0114759016892591
+"C1","Stromal cells: Pericytes",0.012562497661536
+"C1","Stromal cells: Smooth muscle cells",0.0025051599763736
+"C1","Stromal cells: Stalk-like ECs",0.00347565522124914
+"C1","Stromal cells: Stromal 1",0.00915338854201717
+"C1","Stromal cells: Stromal 2",0.0527862783654895
+"C1","Stromal cells: Stromal 3",0.00138898319646522
+"C1","Stromal cells: Tip-like ECs",0.0297234225246501
+"C1","T cells",0.00559966295267203
+"C2","B cells",0.0355125737385821
+"C2","Epithelial cells",0.427393305961236
+"C2","Myeloids: Pro-inflammatory",0.00523408447442002
+"C2","Myeloids: Proliferating",0.0577952894994353
+"C2","Myeloids: SPP1+",0.0164281584226751
+"C2","Myeloids: Unknown",0.00900597951436849
+"C2","Myeloids: cDC",0.00855640088949802
+"C2","Stromal cells",0.0120609614794065
+"C2","Stromal cells: Myofibroblasts",0.111852106267741
+"C2","Stromal cells: Pericytes",0.0213260322867581
+"C2","Stromal cells: Smooth muscle cells",0.0801514149445778
+"C2","Stromal cells: Stalk-like ECs",0.0335560702309
+"C2","Stromal cells: Stromal 1",0.0353084730128243
+"C2","Stromal cells: Stromal 2",0.0438401050870196
+"C2","Stromal cells: Stromal 3",0.0209478390890643
+"C2","Stromal cells: Tip-like ECs",0.0619991450363138
+"C2","T cells",0.0190320600651799
+"C3","B cells",0.0202221008374928
+"C3","Epithelial cells",0.862806120625017
+"C3","Myeloids: Pro-inflammatory",0.00192489562875921
+"C3","Myeloids: Proliferating",0.008804617190413
+"C3","Myeloids: SPP1+",0.002617103928256
+"C3","Myeloids: Unknown",0.00518860324682425
+"C3","Myeloids: cDC",0.00465066619948673
+"C3","Stromal cells",0.00108459805844876
+"C3","Stromal cells: Myofibroblasts",0.00958490739396046
+"C3","Stromal cells: Pericytes",0.00791364214356713
+"C3","Stromal cells: Smooth muscle cells",0.00595108995774333
+"C3","Stromal cells: Stalk-like ECs",0.00723571334156239
+"C3","Stromal cells: Stromal 1",0.00954774314121248
+"C3","Stromal cells: Stromal 2",0.0230589930202616
+"C3","Stromal cells: Stromal 3",0.00192490503373508
+"C3","Stromal cells: Tip-like ECs",0.0145980859361606
+"C3","T cells",0.0128862143170991
+"C4","B cells",0.0171682698292644
+"C4","Epithelial cells",0.342996974707444
+"C4","Myeloids: Pro-inflammatory",0.00904428869916823
+"C4","Myeloids: Proliferating",0.0263268067310012
+"C4","Myeloids: SPP1+",0.0259748826806063
+"C4","Myeloids: Unknown",0.00775996858549899
+"C4","Myeloids: cDC",0.00998873847718683
+"C4","Stromal cells",0.0197966733757591
+"C4","Stromal cells: Myofibroblasts",0.236019832651165
+"C4","Stromal cells: Pericytes",0.0168604615291203
+"C4","Stromal cells: Smooth muscle cells",0.102206331732595
+"C4","Stromal cells: Stalk-like ECs",0.0325760964162439
+"C4","Stromal cells: Stromal 1",0.0443593826939364
+"C4","Stromal cells: Stromal 2",0.013418003352144
+"C4","Stromal cells: Stromal 3",0.0463099354922858
+"C4","Stromal cells: Tip-like ECs",0.040019751285556
+"C4","T cells",0.00917360176102427

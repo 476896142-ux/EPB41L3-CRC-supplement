@@ -1,0 +1,4 @@
+Cohort,N,Patient_identifiers
+TCGA,380,Unique tumor patients
+GSE44076,98,Unique tumor patients
+GSE20916,36,Not available; sample-level

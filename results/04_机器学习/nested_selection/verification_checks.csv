@@ -1,0 +1,6 @@
+"Check","Passed","Count"
+"outer_patient_separation",TRUE,25
+"inner_patient_separation",TRUE,250
+"inner_only_selection_rule",TRUE,125
+"one_oof_prediction_per_sample_per_repeat",TRUE,6150
+"ten_initial_candidates",TRUE,10

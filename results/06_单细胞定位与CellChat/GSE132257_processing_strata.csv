@@ -1,0 +1,181 @@
+"Patient","Status","Class","Cell_type","gene","n_cells","mean_expression","pct_positive"
+"SMC13","Fresh","Normal","B cells","ANGPTL1",444,0,0
+"SMC13","Fresh","Normal","B cells","EPB41L3",444,0.00060575123408555,0.225225225225225
+"SMC13","Fresh","Normal","B cells","KLB",444,0,0
+"SMC13","Fresh","Normal","Epithelial cells","ANGPTL1",147,0,0
+"SMC13","Fresh","Normal","Epithelial cells","EPB41L3",147,0.0230928579696943,2.04081632653061
+"SMC13","Fresh","Normal","Epithelial cells","KLB",147,0.0058717619600328,0.680272108843537
+"SMC13","Fresh","Normal","Mast cells","ANGPTL1",44,0,0
+"SMC13","Fresh","Normal","Mast cells","EPB41L3",44,0,0
+"SMC13","Fresh","Normal","Mast cells","KLB",44,0,0
+"SMC13","Fresh","Normal","Myeloids","ANGPTL1",47,0,0
+"SMC13","Fresh","Normal","Myeloids","EPB41L3",47,0.141436639570443,17.0212765957447
+"SMC13","Fresh","Normal","Myeloids","KLB",47,0,0
+"SMC13","Fresh","Normal","Stromal cells","ANGPTL1",152,0.38423297809529,31.5789473684211
+"SMC13","Fresh","Normal","Stromal cells","EPB41L3",152,0.0326349175909412,4.60526315789474
+"SMC13","Fresh","Normal","Stromal cells","KLB",152,0,0
+"SMC13","Fresh","Normal","T cells","ANGPTL1",515,0.0037051228722557,0.194174757281553
+"SMC13","Fresh","Normal","T cells","EPB41L3",515,0,0
+"SMC13","Fresh","Normal","T cells","KLB",515,0,0
+"SMC13","Fresh","Tumor","B cells","ANGPTL1",224,0,0
+"SMC13","Fresh","Tumor","B cells","EPB41L3",224,0,0
+"SMC13","Fresh","Tumor","B cells","KLB",224,0,0
+"SMC13","Fresh","Tumor","Epithelial cells","ANGPTL1",847,0,0
+"SMC13","Fresh","Tumor","Epithelial cells","EPB41L3",847,0.00149927581878367,0.472255017709563
+"SMC13","Fresh","Tumor","Epithelial cells","KLB",847,0.0008838960134374,0.236127508854782
+"SMC13","Fresh","Tumor","Mast cells","ANGPTL1",29,0,0
+"SMC13","Fresh","Tumor","Mast cells","EPB41L3",29,0.0748234324176029,6.89655172413793
+"SMC13","Fresh","Tumor","Mast cells","KLB",29,0,0
+"SMC13","Fresh","Tumor","Myeloids","ANGPTL1",210,0,0
+"SMC13","Fresh","Tumor","Myeloids","EPB41L3",210,0.303338735171668,38.0952380952381
+"SMC13","Fresh","Tumor","Myeloids","KLB",210,0,0
+"SMC13","Fresh","Tumor","Stromal cells","ANGPTL1",32,0,0
+"SMC13","Fresh","Tumor","Stromal cells","EPB41L3",32,0.0490855258444206,9.375
+"SMC13","Fresh","Tumor","Stromal cells","KLB",32,0,0
+"SMC13","Fresh","Tumor","T cells","ANGPTL1",1069,0,0
+"SMC13","Fresh","Tumor","T cells","EPB41L3",1069,0.00154032758486003,0.0935453695042095
+"SMC13","Fresh","Tumor","T cells","KLB",1069,0.00128666348913399,0.0935453695042095
+"SMC13","Frozen","Normal","B cells","ANGPTL1",707,0,0
+"SMC13","Frozen","Normal","B cells","EPB41L3",707,0.00139195948465839,0.282885431400283
+"SMC13","Frozen","Normal","B cells","KLB",707,0.000742858472275528,0.141442715700141
+"SMC13","Frozen","Normal","Epithelial cells","ANGPTL1",73,0,0
+"SMC13","Frozen","Normal","Epithelial cells","EPB41L3",73,0.0597929788265181,6.84931506849315
+"SMC13","Frozen","Normal","Epithelial cells","KLB",73,0.0155101753548753,1.36986301369863
+"SMC13","Frozen","Normal","Mast cells","ANGPTL1",5,0,0
+"SMC13","Frozen","Normal","Mast cells","EPB41L3",5,0,0
+"SMC13","Frozen","Normal","Mast cells","KLB",5,0,0
+"SMC13","Frozen","Normal","Myeloids","ANGPTL1",53,0,0
+"SMC13","Frozen","Normal","Myeloids","EPB41L3",53,0.186587728903996,24.5283018867925
+"SMC13","Frozen","Normal","Myeloids","KLB",53,0,0
+"SMC13","Frozen","Normal","Stromal cells","ANGPTL1",166,0.43739380894513,40.3614457831325
+"SMC13","Frozen","Normal","Stromal cells","EPB41L3",166,0.0352033674496445,3.6144578313253
+"SMC13","Frozen","Normal","Stromal cells","KLB",166,0,0
+"SMC13","Frozen","Normal","T cells","ANGPTL1",781,0,0
+"SMC13","Frozen","Normal","T cells","EPB41L3",781,0.00155995536221532,0.128040973111396
+"SMC13","Frozen","Normal","T cells","KLB",781,0,0
+"SMC13","Frozen","Tumor","B cells","ANGPTL1",309,0,0
+"SMC13","Frozen","Tumor","B cells","EPB41L3",309,0.00664867154133196,0.970873786407767
+"SMC13","Frozen","Tumor","B cells","KLB",309,0,0
+"SMC13","Frozen","Tumor","Epithelial cells","ANGPTL1",1037,0,0
+"SMC13","Frozen","Tumor","Epithelial cells","EPB41L3",1037,0.00243214942335035,0.38572806171649
+"SMC13","Frozen","Tumor","Epithelial cells","KLB",1037,0.000411858609068043,0.192864030858245
+"SMC13","Frozen","Tumor","Mast cells","ANGPTL1",32,0,0
+"SMC13","Frozen","Tumor","Mast cells","EPB41L3",32,0,0
+"SMC13","Frozen","Tumor","Mast cells","KLB",32,0,0
+"SMC13","Frozen","Tumor","Myeloids","ANGPTL1",342,0,0
+"SMC13","Frozen","Tumor","Myeloids","EPB41L3",342,0.267343522050639,34.2105263157895
+"SMC13","Frozen","Tumor","Myeloids","KLB",342,0,0
+"SMC13","Frozen","Tumor","Stromal cells","ANGPTL1",40,0.0338078124706853,2.5
+"SMC13","Frozen","Tumor","Stromal cells","EPB41L3",40,0.0254280507481046,2.5
+"SMC13","Frozen","Tumor","Stromal cells","KLB",40,0,0
+"SMC13","Frozen","Tumor","T cells","ANGPTL1",1469,0,0
+"SMC13","Frozen","Tumor","T cells","EPB41L3",1469,0.00321531983155265,0.272294077603812
+"SMC13","Frozen","Tumor","T cells","KLB",1469,0.00079849639859936,0.068073519400953
+"SMC171","KUL3 protocol","Normal","B cells","ANGPTL1",424,0.000834218524987827,0.235849056603774
+"SMC171","KUL3 protocol","Normal","B cells","EPB41L3",424,0,0
+"SMC171","KUL3 protocol","Normal","B cells","KLB",424,0.000768818194446505,0.235849056603774
+"SMC171","KUL3 protocol","Normal","Epithelial cells","ANGPTL1",138,0.0154997390732412,0.72463768115942
+"SMC171","KUL3 protocol","Normal","Epithelial cells","EPB41L3",138,0.0345667561046893,7.2463768115942
+"SMC171","KUL3 protocol","Normal","Epithelial cells","KLB",138,0.0163236521633142,2.89855072463768
+"SMC171","KUL3 protocol","Normal","Mast cells","ANGPTL1",9,0,0
+"SMC171","KUL3 protocol","Normal","Mast cells","EPB41L3",9,0,0
+"SMC171","KUL3 protocol","Normal","Mast cells","KLB",9,0,0
+"SMC171","KUL3 protocol","Normal","Myeloids","ANGPTL1",43,0,0
+"SMC171","KUL3 protocol","Normal","Myeloids","EPB41L3",43,0.336768497830659,34.8837209302326
+"SMC171","KUL3 protocol","Normal","Myeloids","KLB",43,0,0
+"SMC171","KUL3 protocol","Normal","Stromal cells","ANGPTL1",110,0.361791047478579,27.2727272727273
+"SMC171","KUL3 protocol","Normal","Stromal cells","EPB41L3",110,0.117642607576685,10.9090909090909
+"SMC171","KUL3 protocol","Normal","Stromal cells","KLB",110,0,0
+"SMC171","KUL3 protocol","Normal","T cells","ANGPTL1",489,0,0
+"SMC171","KUL3 protocol","Normal","T cells","EPB41L3",489,0.0028653925236954,0.204498977505113
+"SMC171","KUL3 protocol","Normal","T cells","KLB",489,0.00299132433715437,0.204498977505113
+"SMC171","KUL3 protocol","Tumor","B cells","ANGPTL1",239,0,0
+"SMC171","KUL3 protocol","Tumor","B cells","EPB41L3",239,0,0
+"SMC171","KUL3 protocol","Tumor","B cells","KLB",239,0,0
+"SMC171","KUL3 protocol","Tumor","Epithelial cells","ANGPTL1",383,0,0
+"SMC171","KUL3 protocol","Tumor","Epithelial cells","EPB41L3",383,0.0319876826981189,6.78851174934726
+"SMC171","KUL3 protocol","Tumor","Epithelial cells","KLB",383,0.00737690547178704,1.56657963446475
+"SMC171","KUL3 protocol","Tumor","Mast cells","ANGPTL1",38,0,0
+"SMC171","KUL3 protocol","Tumor","Mast cells","EPB41L3",38,0,0
+"SMC171","KUL3 protocol","Tumor","Mast cells","KLB",38,0,0
+"SMC171","KUL3 protocol","Tumor","Myeloids","ANGPTL1",141,0,0
+"SMC171","KUL3 protocol","Tumor","Myeloids","EPB41L3",141,0.189250113652623,19.1489361702128
+"SMC171","KUL3 protocol","Tumor","Myeloids","KLB",141,0,0
+"SMC171","KUL3 protocol","Tumor","Stromal cells","ANGPTL1",63,0.0541342881026197,3.17460317460317
+"SMC171","KUL3 protocol","Tumor","Stromal cells","EPB41L3",63,0.024001912161144,3.17460317460317
+"SMC171","KUL3 protocol","Tumor","Stromal cells","KLB",63,0,0
+"SMC171","KUL3 protocol","Tumor","T cells","ANGPTL1",742,0,0
+"SMC171","KUL3 protocol","Tumor","T cells","EPB41L3",742,0.00288181054888669,0.134770889487871
+"SMC171","KUL3 protocol","Tumor","T cells","KLB",742,0.00247202475295689,0.134770889487871
+"SMC171","SGI protocol","Normal","B cells","ANGPTL1",712,0,0
+"SMC171","SGI protocol","Normal","B cells","EPB41L3",712,0.000601229895660487,0.140449438202247
+"SMC171","SGI protocol","Normal","B cells","KLB",712,0.000305678564037608,0.140449438202247
+"SMC171","SGI protocol","Normal","Epithelial cells","ANGPTL1",255,0.00150493946173764,0.392156862745098
+"SMC171","SGI protocol","Normal","Epithelial cells","EPB41L3",255,0.0268693728890457,5.09803921568627
+"SMC171","SGI protocol","Normal","Epithelial cells","KLB",255,0.00791145291077708,0.392156862745098
+"SMC171","SGI protocol","Normal","Mast cells","ANGPTL1",22,0,0
+"SMC171","SGI protocol","Normal","Mast cells","EPB41L3",22,0,0
+"SMC171","SGI protocol","Normal","Mast cells","KLB",22,0,0
+"SMC171","SGI protocol","Normal","Myeloids","ANGPTL1",46,0,0
+"SMC171","SGI protocol","Normal","Myeloids","EPB41L3",46,0.0805466133930405,4.34782608695652
+"SMC171","SGI protocol","Normal","Myeloids","KLB",46,0,0
+"SMC171","SGI protocol","Normal","Stromal cells","ANGPTL1",145,0.146518469657406,14.4827586206897
+"SMC171","SGI protocol","Normal","Stromal cells","EPB41L3",145,0.0702784987657285,7.58620689655172
+"SMC171","SGI protocol","Normal","Stromal cells","KLB",145,0,0
+"SMC171","SGI protocol","Normal","T cells","ANGPTL1",435,0,0
+"SMC171","SGI protocol","Normal","T cells","EPB41L3",435,0,0
+"SMC171","SGI protocol","Normal","T cells","KLB",435,0,0
+"SMC171","SGI protocol","Tumor","B cells","ANGPTL1",285,0,0
+"SMC171","SGI protocol","Tumor","B cells","EPB41L3",285,0,0
+"SMC171","SGI protocol","Tumor","B cells","KLB",285,0,0
+"SMC171","SGI protocol","Tumor","Epithelial cells","ANGPTL1",466,0,0
+"SMC171","SGI protocol","Tumor","Epithelial cells","EPB41L3",466,0.018197118115879,3.00429184549356
+"SMC171","SGI protocol","Tumor","Epithelial cells","KLB",466,0.00414488215158551,0.858369098712446
+"SMC171","SGI protocol","Tumor","Mast cells","ANGPTL1",21,0,0
+"SMC171","SGI protocol","Tumor","Mast cells","EPB41L3",21,0,0
+"SMC171","SGI protocol","Tumor","Mast cells","KLB",21,0,0
+"SMC171","SGI protocol","Tumor","Myeloids","ANGPTL1",127,0,0
+"SMC171","SGI protocol","Tumor","Myeloids","EPB41L3",127,0.099844256604317,9.44881889763779
+"SMC171","SGI protocol","Tumor","Myeloids","KLB",127,0,0
+"SMC171","SGI protocol","Tumor","Stromal cells","ANGPTL1",33,0,0
+"SMC171","SGI protocol","Tumor","Stromal cells","EPB41L3",33,0.0281108991561673,3.03030303030303
+"SMC171","SGI protocol","Tumor","Stromal cells","KLB",33,0,0
+"SMC171","SGI protocol","Tumor","T cells","ANGPTL1",699,0,0
+"SMC171","SGI protocol","Tumor","T cells","EPB41L3",699,0,0
+"SMC171","SGI protocol","Tumor","T cells","KLB",699,0,0
+"SMC171","SING protocol","Normal","B cells","ANGPTL1",636,0,0
+"SMC171","SING protocol","Normal","B cells","EPB41L3",636,0,0
+"SMC171","SING protocol","Normal","B cells","KLB",636,0.00188988973132758,0.157232704402516
+"SMC171","SING protocol","Normal","Epithelial cells","ANGPTL1",499,0,0
+"SMC171","SING protocol","Normal","Epithelial cells","EPB41L3",499,0.0307520967380295,3.80761523046092
+"SMC171","SING protocol","Normal","Epithelial cells","KLB",499,0.0111520537118057,1.00200400801603
+"SMC171","SING protocol","Normal","Mast cells","ANGPTL1",22,0,0
+"SMC171","SING protocol","Normal","Mast cells","EPB41L3",22,0,0
+"SMC171","SING protocol","Normal","Mast cells","KLB",22,0,0
+"SMC171","SING protocol","Normal","Myeloids","ANGPTL1",48,0,0
+"SMC171","SING protocol","Normal","Myeloids","EPB41L3",48,0.0800263098762392,10.4166666666667
+"SMC171","SING protocol","Normal","Myeloids","KLB",48,0,0
+"SMC171","SING protocol","Normal","Stromal cells","ANGPTL1",130,0.294466049954297,26.1538461538462
+"SMC171","SING protocol","Normal","Stromal cells","EPB41L3",130,0.0117685192505031,2.30769230769231
+"SMC171","SING protocol","Normal","Stromal cells","KLB",130,0,0
+"SMC171","SING protocol","Normal","T cells","ANGPTL1",362,0,0
+"SMC171","SING protocol","Normal","T cells","EPB41L3",362,0,0
+"SMC171","SING protocol","Normal","T cells","KLB",362,0,0
+"SMC171","SING protocol","Tumor","B cells","ANGPTL1",234,0,0
+"SMC171","SING protocol","Tumor","B cells","EPB41L3",234,0,0
+"SMC171","SING protocol","Tumor","B cells","KLB",234,0,0
+"SMC171","SING protocol","Tumor","Epithelial cells","ANGPTL1",662,0,0
+"SMC171","SING protocol","Tumor","Epithelial cells","EPB41L3",662,0.0174305393468979,3.62537764350453
+"SMC171","SING protocol","Tumor","Epithelial cells","KLB",662,0.00988907705185684,1.66163141993958
+"SMC171","SING protocol","Tumor","Mast cells","ANGPTL1",17,0,0
+"SMC171","SING protocol","Tumor","Mast cells","EPB41L3",17,0,0
+"SMC171","SING protocol","Tumor","Mast cells","KLB",17,0,0
+"SMC171","SING protocol","Tumor","Myeloids","ANGPTL1",136,0,0
+"SMC171","SING protocol","Tumor","Myeloids","EPB41L3",136,0.175717818526445,18.3823529411765
+"SMC171","SING protocol","Tumor","Myeloids","KLB",136,0,0
+"SMC171","SING protocol","Tumor","Stromal cells","ANGPTL1",82,0.020272854027854,2.4390243902439
+"SMC171","SING protocol","Tumor","Stromal cells","EPB41L3",82,0.0368043920056797,4.8780487804878
+"SMC171","SING protocol","Tumor","Stromal cells","KLB",82,0,0
+"SMC171","SING protocol","Tumor","T cells","ANGPTL1",611,0,0
+"SMC171","SING protocol","Tumor","T cells","EPB41L3",611,0.00402835730514141,0.327332242225859
+"SMC171","SING protocol","Tumor","T cells","KLB",611,0,0

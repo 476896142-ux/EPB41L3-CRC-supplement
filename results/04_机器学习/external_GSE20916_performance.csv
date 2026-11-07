@@ -1,0 +1,5 @@
+"Model","External_AUC","CI_low","CI_high","Sensitivity","Specificity","Brier","Probability_min","Probability_max","CI_note"
+"glmnet",1,1,1,0,1,0.55422660924683,7.94674676412033e-05,0.200233935061918,"Degenerate DeLong CI at perfect AUC; do not interpret as certainty"
+"rf",0.967592592592593,0.930944314971003,1,0.25,1,0.288228733333333,0.072,0.64,"Sample-level DeLong CI; patient pairing unknown"
+"svmRadial",0.741898148148148,0.617981722894572,0.865814573401724,1,0,0.248182225819162,0.690329582204665,0.690495016038656,"Sample-level DeLong CI; patient pairing unknown"
+"nnet",1,1,1,0,1,0.548355579412464,0.0110270111294885,0.418182535355383,"Degenerate DeLong CI at perfect AUC; do not interpret as certainty"

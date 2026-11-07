@@ -1,0 +1,23 @@
+"Cell","N_pairs","Median_difference","P","FDR"
+"B cells naive",1,0.15230526966309,NA,NA
+"B cells memory",1,0.0268382105783578,NA,NA
+"Plasma cells",1,0.0163036329221744,NA,NA
+"T cells CD8",1,-0.0096013548913409,NA,NA
+"T cells CD4 naive",1,0,NA,NA
+"T cells CD4 memory resting",1,-0.0271764158542743,NA,NA
+"T cells CD4 memory activated",1,0.0081520074263086,NA,NA
+"T cells follicular helper",1,0.0267219345500815,NA,NA
+"T cells regulatory (Tregs)",1,-0.000321105121795086,NA,NA
+"T cells gamma delta",1,0,NA,NA
+"NK cells resting",1,0.0850450156315721,NA,NA
+"NK cells activated",1,-0.0076690986076302,NA,NA
+"Monocytes",1,-0.0565495946614506,NA,NA
+"Macrophages M0",1,0.150596422210198,NA,NA
+"Macrophages M1",1,-0.138930417113414,NA,NA
+"Macrophages M2",1,-0.196935801697204,NA,NA
+"Dendritic cells resting",1,0,NA,NA
+"Dendritic cells activated",1,0,NA,NA
+"Mast cells resting",1,-0.0596304465041732,NA,NA
+"Mast cells activated",1,0.0103201301177127,NA,NA
+"Eosinophils",1,0,NA,NA
+"Neutrophils",1,0.020531611351787,NA,NA

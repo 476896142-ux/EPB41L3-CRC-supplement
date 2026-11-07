@@ -1,0 +1,11 @@
+Gene,GPL96_probe_count,Probes,Status
+NTRK3,7,206462_s_at;213960_at;215025_at;215115_x_at;215311_at;217033_x_at;217377_x_at,available
+EPHB1,2,210753_s_at;211898_s_at,available
+KLB,0,,not_covered
+GREM1,2,218468_s_at;218469_at,available
+HHIP,0,,not_covered
+ANGPTL1,0,,not_covered
+LAMC2,2,202267_at;207517_at,available
+WDR72,0,,not_covered
+GPER1,2,210640_s_at;211829_s_at,available
+EPB41L3,3,206710_s_at;211776_s_at;212681_at,available

@@ -1,0 +1,8 @@
+"package","version"
+"R","4.6.1"
+"clusterProfiler","4.20.0"
+"enrichit","0.2.1"
+"org.Hs.eg.db","3.23.1"
+"GO.db","3.23.1"
+"enrichplot","1.32.0"
+"ggplot2","4.0.3"

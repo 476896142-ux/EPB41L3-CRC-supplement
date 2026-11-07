@@ -1,0 +1,8 @@
+metric,value
+IV proteins,880
+IV SNPs,4468
+Outcome SNPs extracted,4424
+Harmonised SNP rows,3611
+MR proteins,825
+IVW FDR<0.05,36
+MR-DEG intersection,8

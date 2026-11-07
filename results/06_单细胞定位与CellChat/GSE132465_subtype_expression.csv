@@ -1,0 +1,199 @@
+"Class","Cell_type","Cell_subtype","gene","n_cells","patients","mean_expression","pct_positive"
+"Normal","B cells","CD19+CD20+ B","ANGPTL1",1684,10,0.00105396532605842,0.0593824228028504
+"Normal","B cells","CD19+CD20+ B","EPB41L3",1684,10,0,0
+"Normal","B cells","CD19+CD20+ B","KLB",1684,10,0.000779822347971894,0.0593824228028504
+"Normal","B cells","IgA+ Plasma","ANGPTL1",3366,10,0.000832463288742108,0.207961972667855
+"Normal","B cells","IgA+ Plasma","EPB41L3",3366,10,0.0020878991490876,0.386215092097445
+"Normal","B cells","IgA+ Plasma","KLB",3366,10,0.00329206927502941,0.65359477124183
+"Normal","B cells","IgG+ Plasma","ANGPTL1",94,10,0,0
+"Normal","B cells","IgG+ Plasma","EPB41L3",94,10,0.00464363917131639,1.06382978723404
+"Normal","B cells","IgG+ Plasma","KLB",94,10,0,0
+"Normal","B cells","Unknown","ANGPTL1",64,10,0,0
+"Normal","B cells","Unknown","EPB41L3",64,10,0,0
+"Normal","B cells","Unknown","KLB",64,10,0,0
+"Normal","Epithelial cells","Goblet cells","ANGPTL1",139,10,0.00650373255448662,0.719424460431655
+"Normal","Epithelial cells","Goblet cells","EPB41L3",139,10,0.0300237372382573,2.87769784172662
+"Normal","Epithelial cells","Goblet cells","KLB",139,10,0.0215289490320353,2.15827338129496
+"Normal","Epithelial cells","Intermediate","ANGPTL1",181,10,0,0
+"Normal","Epithelial cells","Intermediate","EPB41L3",181,10,0.00966899701124809,0.552486187845304
+"Normal","Epithelial cells","Intermediate","KLB",181,10,0.0107216276920028,0.552486187845304
+"Normal","Epithelial cells","Mature Enterocytes type 1","ANGPTL1",213,8,0,0
+"Normal","Epithelial cells","Mature Enterocytes type 1","EPB41L3",213,8,0.0146365208998717,0.938967136150235
+"Normal","Epithelial cells","Mature Enterocytes type 1","KLB",213,8,0,0
+"Normal","Epithelial cells","Mature Enterocytes type 2","ANGPTL1",131,10,0,0
+"Normal","Epithelial cells","Mature Enterocytes type 2","EPB41L3",131,10,0.0792733867263431,4.58015267175572
+"Normal","Epithelial cells","Mature Enterocytes type 2","KLB",131,10,0,0
+"Normal","Epithelial cells","Stem-like/TA","ANGPTL1",406,10,0,0
+"Normal","Epithelial cells","Stem-like/TA","EPB41L3",406,10,0.0446963569700036,10.0985221674877
+"Normal","Epithelial cells","Stem-like/TA","KLB",406,10,0.00941141477507334,1.97044334975369
+"Normal","Mast cells","Mast cells","ANGPTL1",184,10,0,0
+"Normal","Mast cells","Mast cells","EPB41L3",184,10,0,0
+"Normal","Mast cells","Mast cells","KLB",184,10,0,0
+"Normal","Myeloids","Pro-inflammatory","ANGPTL1",74,10,0,0
+"Normal","Myeloids","Pro-inflammatory","EPB41L3",74,10,0.226965229412102,21.6216216216216
+"Normal","Myeloids","Pro-inflammatory","KLB",74,10,0,0
+"Normal","Myeloids","Proliferating","ANGPTL1",6,4,0,0
+"Normal","Myeloids","Proliferating","EPB41L3",6,4,0.179227418968165,16.6666666666667
+"Normal","Myeloids","Proliferating","KLB",6,4,0,0
+"Normal","Myeloids","SPP1+","ANGPTL1",156,9,0,0
+"Normal","Myeloids","SPP1+","EPB41L3",156,9,0.297972801413184,26.2820512820513
+"Normal","Myeloids","SPP1+","KLB",156,9,0,0
+"Normal","Myeloids","Unknown","ANGPTL1",4,3,0,0
+"Normal","Myeloids","Unknown","EPB41L3",4,3,0,0
+"Normal","Myeloids","Unknown","KLB",4,3,0,0
+"Normal","Myeloids","cDC","ANGPTL1",129,10,0,0
+"Normal","Myeloids","cDC","EPB41L3",129,10,0.223223694891885,25.5813953488372
+"Normal","Myeloids","cDC","KLB",129,10,0,0
+"Normal","Stromal cells","Enteric glial cells","ANGPTL1",282,10,0.184383414791011,13.8297872340426
+"Normal","Stromal cells","Enteric glial cells","EPB41L3",282,10,0.123144529338391,9.21985815602837
+"Normal","Stromal cells","Enteric glial cells","KLB",282,10,0,0
+"Normal","Stromal cells","Lymphatic ECs","ANGPTL1",80,8,0,0
+"Normal","Stromal cells","Lymphatic ECs","EPB41L3",80,8,0.0699213518829941,7.5
+"Normal","Stromal cells","Lymphatic ECs","KLB",80,8,0,0
+"Normal","Stromal cells","Myofibroblasts","ANGPTL1",9,6,0,0
+"Normal","Stromal cells","Myofibroblasts","EPB41L3",9,6,0,0
+"Normal","Stromal cells","Myofibroblasts","KLB",9,6,0,0
+"Normal","Stromal cells","Pericytes","ANGPTL1",92,10,0.0347488869157021,2.17391304347826
+"Normal","Stromal cells","Pericytes","EPB41L3",92,10,0,0
+"Normal","Stromal cells","Pericytes","KLB",92,10,0,0
+"Normal","Stromal cells","Smooth muscle cells","ANGPTL1",123,9,0.520252580017189,39.8373983739837
+"Normal","Stromal cells","Smooth muscle cells","EPB41L3",123,9,0.008899416419945,0.813008130081301
+"Normal","Stromal cells","Smooth muscle cells","KLB",123,9,0,0
+"Normal","Stromal cells","Stalk-like ECs","ANGPTL1",96,9,0.0809751673350285,10.4166666666667
+"Normal","Stromal cells","Stalk-like ECs","EPB41L3",96,9,0.175690931023857,20.8333333333333
+"Normal","Stromal cells","Stalk-like ECs","KLB",96,9,0,0
+"Normal","Stromal cells","Stromal 1","ANGPTL1",972,10,0.318763474206995,26.3374485596708
+"Normal","Stromal cells","Stromal 1","EPB41L3",972,10,0.0121113385682527,1.33744855967078
+"Normal","Stromal cells","Stromal 1","KLB",972,10,0.00063693945444288,0.102880658436214
+"Normal","Stromal cells","Stromal 2","ANGPTL1",236,10,0.00339001988614829,0.423728813559322
+"Normal","Stromal cells","Stromal 2","EPB41L3",236,10,0,0
+"Normal","Stromal cells","Stromal 2","KLB",236,10,0.00319669879869029,0.423728813559322
+"Normal","Stromal cells","Stromal 3","ANGPTL1",744,10,0.453370303840854,39.247311827957
+"Normal","Stromal cells","Stromal 3","EPB41L3",744,10,0.107451128921854,14.9193548387097
+"Normal","Stromal cells","Stromal 3","KLB",744,10,0.0010044776613562,0.134408602150538
+"Normal","Stromal cells","Tip-like ECs","ANGPTL1",563,10,0.0170375890942971,2.13143872113677
+"Normal","Stromal cells","Tip-like ECs","EPB41L3",563,10,0.0181344087973727,1.9538188277087
+"Normal","Stromal cells","Tip-like ECs","KLB",563,10,0.00241424793272258,0.355239786856128
+"Normal","T cells","CD4+ T cells","ANGPTL1",3325,10,0.000953707987327997,0.0601503759398496
+"Normal","T cells","CD4+ T cells","EPB41L3",3325,10,0.00178805134610835,0.120300751879699
+"Normal","T cells","CD4+ T cells","KLB",3325,10,0.000512067393071744,0.0300751879699248
+"Normal","T cells","CD8+ T cells","ANGPTL1",1757,10,0,0
+"Normal","T cells","CD8+ T cells","EPB41L3",1757,10,0.00198511574077096,0.113830392714855
+"Normal","T cells","CD8+ T cells","KLB",1757,10,0.0014632281972629,0.113830392714855
+"Normal","T cells","NK cells","ANGPTL1",163,9,0,0
+"Normal","T cells","NK cells","EPB41L3",163,9,0.034317478542802,2.45398773006135
+"Normal","T cells","NK cells","KLB",163,9,0,0
+"Normal","T cells","Regulatory T cells","ANGPTL1",154,10,0,0
+"Normal","T cells","Regulatory T cells","EPB41L3",154,10,0,0
+"Normal","T cells","Regulatory T cells","KLB",154,10,0,0
+"Normal","T cells","T follicular helper cells","ANGPTL1",72,10,0,0
+"Normal","T cells","T follicular helper cells","EPB41L3",72,10,0,0
+"Normal","T cells","T follicular helper cells","KLB",72,10,0,0
+"Normal","T cells","T helper 17 cells","ANGPTL1",17,7,0,0
+"Normal","T cells","T helper 17 cells","EPB41L3",17,7,0,0
+"Normal","T cells","T helper 17 cells","KLB",17,7,0,0
+"Normal","T cells","Unknown","ANGPTL1",111,10,0.0158341724291289,0.900900900900901
+"Normal","T cells","Unknown","EPB41L3",111,10,0,0
+"Normal","T cells","Unknown","KLB",111,10,0,0
+"Normal","T cells","gamma delta T cells","ANGPTL1",777,10,0,0
+"Normal","T cells","gamma delta T cells","EPB41L3",777,10,0.00179563728940018,0.128700128700129
+"Normal","T cells","gamma delta T cells","KLB",777,10,0.00160476342712711,0.128700128700129
+"Tumor","B cells","CD19+CD20+ B","ANGPTL1",2049,23,0,0
+"Tumor","B cells","CD19+CD20+ B","EPB41L3",2049,23,0.00144532223914328,0.0976085895558809
+"Tumor","B cells","CD19+CD20+ B","KLB",2049,23,0.00091882415369419,0.0488042947779405
+"Tumor","B cells","IgA+ Plasma","ANGPTL1",180,14,0,0
+"Tumor","B cells","IgA+ Plasma","EPB41L3",180,14,0,0
+"Tumor","B cells","IgA+ Plasma","KLB",180,14,0.00360759106861131,0.555555555555556
+"Tumor","B cells","IgG+ Plasma","ANGPTL1",1661,23,0,0
+"Tumor","B cells","IgG+ Plasma","EPB41L3",1661,23,0.0019539434732572,0.541842263696568
+"Tumor","B cells","IgG+ Plasma","KLB",1661,23,0.00124325769685669,0.301023479831427
+"Tumor","B cells","Unknown","ANGPTL1",48,15,0,0
+"Tumor","B cells","Unknown","EPB41L3",48,15,0,0
+"Tumor","B cells","Unknown","KLB",48,15,0,0
+"Tumor","Epithelial cells","CMS1","ANGPTL1",1201,21,0,0
+"Tumor","Epithelial cells","CMS1","EPB41L3",1201,21,0.00715122783141914,1.83180682764363
+"Tumor","Epithelial cells","CMS1","KLB",1201,21,0.00379531414797527,1.16569525395504
+"Tumor","Epithelial cells","CMS2","ANGPTL1",10771,21,2.49209319286194e-05,0.00928418902608857
+"Tumor","Epithelial cells","CMS2","EPB41L3",10771,21,0.00346929731538466,0.90985052455668
+"Tumor","Epithelial cells","CMS2","KLB",10771,21,0.00408832890437677,1.03054498189583
+"Tumor","Epithelial cells","CMS3","ANGPTL1",5486,23,8.91879771465836e-05,0.0364564345607
+"Tumor","Epithelial cells","CMS3","EPB41L3",5486,23,0.00235870110892422,0.583302952971199
+"Tumor","Epithelial cells","CMS3","KLB",5486,23,0.00275706313174124,0.601531170251549
+"Tumor","Epithelial cells","CMS4","ANGPTL1",11,9,0,0
+"Tumor","Epithelial cells","CMS4","EPB41L3",11,9,0,0
+"Tumor","Epithelial cells","CMS4","KLB",11,9,0,0
+"Tumor","Mast cells","Mast cells","ANGPTL1",3,2,0,0
+"Tumor","Mast cells","Mast cells","EPB41L3",3,2,0,0
+"Tumor","Mast cells","Mast cells","KLB",3,2,0,0
+"Tumor","Myeloids","Pro-inflammatory","ANGPTL1",2325,23,0,0
+"Tumor","Myeloids","Pro-inflammatory","EPB41L3",2325,23,0.265471220915321,18.6236559139785
+"Tumor","Myeloids","Pro-inflammatory","KLB",2325,23,0,0
+"Tumor","Myeloids","Proliferating","ANGPTL1",165,21,0,0
+"Tumor","Myeloids","Proliferating","EPB41L3",165,21,0.380436179858481,41.8181818181818
+"Tumor","Myeloids","Proliferating","KLB",165,21,0.00268162788773962,0.606060606060606
+"Tumor","Myeloids","SPP1+","ANGPTL1",3096,23,0.000331653509059878,0.0322997416020672
+"Tumor","Myeloids","SPP1+","EPB41L3",3096,23,0.365465625014217,34.2377260981912
+"Tumor","Myeloids","SPP1+","KLB",3096,23,0.00099347511482996,0.0968992248062016
+"Tumor","Myeloids","Unknown","ANGPTL1",461,23,0.00196784941049567,0.216919739696312
+"Tumor","Myeloids","Unknown","EPB41L3",461,23,0.166035571173457,18.2212581344902
+"Tumor","Myeloids","Unknown","KLB",461,23,0,0
+"Tumor","Myeloids","cDC","ANGPTL1",353,23,0.00131438614922724,0.28328611898017
+"Tumor","Myeloids","cDC","EPB41L3",353,23,0.339455580304787,38.8101983002833
+"Tumor","Myeloids","cDC","KLB",353,23,0,0
+"Tumor","Stromal cells","Enteric glial cells","ANGPTL1",23,7,0.184937200723375,13.0434782608696
+"Tumor","Stromal cells","Enteric glial cells","EPB41L3",23,7,0.191843337648498,26.0869565217391
+"Tumor","Stromal cells","Enteric glial cells","KLB",23,7,0,0
+"Tumor","Stromal cells","Lymphatic ECs","ANGPTL1",28,12,0,0
+"Tumor","Stromal cells","Lymphatic ECs","EPB41L3",28,12,0.0357444428473715,3.57142857142857
+"Tumor","Stromal cells","Lymphatic ECs","KLB",28,12,0,0
+"Tumor","Stromal cells","Myofibroblasts","ANGPTL1",1146,23,0.022436985230372,3.83944153577661
+"Tumor","Stromal cells","Myofibroblasts","EPB41L3",1146,23,0.0334132891758452,6.282722513089
+"Tumor","Stromal cells","Myofibroblasts","KLB",1146,23,0.000816064833303933,0.174520069808028
+"Tumor","Stromal cells","Pericytes","ANGPTL1",353,21,0.013044458301918,2.26628895184136
+"Tumor","Stromal cells","Pericytes","EPB41L3",353,21,0.00418280212213424,0.84985835694051
+"Tumor","Stromal cells","Pericytes","KLB",353,21,0,0
+"Tumor","Stromal cells","Proliferative ECs","ANGPTL1",44,14,0,0
+"Tumor","Stromal cells","Proliferative ECs","EPB41L3",44,14,0.0520869550506231,6.81818181818182
+"Tumor","Stromal cells","Proliferative ECs","KLB",44,14,0,0
+"Tumor","Stromal cells","Smooth muscle cells","ANGPTL1",91,15,0.23823769574011,19.7802197802198
+"Tumor","Stromal cells","Smooth muscle cells","EPB41L3",91,15,0.0301236190704573,2.1978021978022
+"Tumor","Stromal cells","Smooth muscle cells","KLB",91,15,0,0
+"Tumor","Stromal cells","Stalk-like ECs","ANGPTL1",342,22,0,0
+"Tumor","Stromal cells","Stalk-like ECs","EPB41L3",342,22,0.198074196715478,20.4678362573099
+"Tumor","Stromal cells","Stalk-like ECs","KLB",342,22,0,0
+"Tumor","Stromal cells","Stromal 1","ANGPTL1",73,16,0.0638385850328938,5.47945205479452
+"Tumor","Stromal cells","Stromal 1","EPB41L3",73,16,0.0254573706685639,4.10958904109589
+"Tumor","Stromal cells","Stromal 1","KLB",73,16,0,0
+"Tumor","Stromal cells","Stromal 2","ANGPTL1",158,19,0,0
+"Tumor","Stromal cells","Stromal 2","EPB41L3",158,19,0,0
+"Tumor","Stromal cells","Stromal 2","KLB",158,19,0,0
+"Tumor","Stromal cells","Stromal 3","ANGPTL1",124,10,0.0709377431636038,12.0967741935484
+"Tumor","Stromal cells","Stromal 3","EPB41L3",124,10,0.0666225622107788,13.7096774193548
+"Tumor","Stromal cells","Stromal 3","KLB",124,10,0,0
+"Tumor","Stromal cells","Tip-like ECs","ANGPTL1",354,21,0.00116731543251207,0.282485875706215
+"Tumor","Stromal cells","Tip-like ECs","EPB41L3",354,21,0.0372735078890486,5.64971751412429
+"Tumor","Stromal cells","Tip-like ECs","KLB",354,21,0,0
+"Tumor","T cells","CD4+ T cells","ANGPTL1",3980,23,0,0
+"Tumor","T cells","CD4+ T cells","EPB41L3",3980,23,0.00162421026341769,0.100502512562814
+"Tumor","T cells","CD4+ T cells","KLB",3980,23,0.00163265352836336,0.125628140703518
+"Tumor","T cells","CD8+ T cells","ANGPTL1",4647,23,0,0
+"Tumor","T cells","CD8+ T cells","EPB41L3",4647,23,0.00158120022643745,0.107596298687325
+"Tumor","T cells","CD8+ T cells","KLB",4647,23,0.00141309278631174,0.0860770389498601
+"Tumor","T cells","NK cells","ANGPTL1",948,23,0,0
+"Tumor","T cells","NK cells","EPB41L3",948,23,0.00175939839756269,0.105485232067511
+"Tumor","T cells","NK cells","KLB",948,23,0.00168302196005293,0.105485232067511
+"Tumor","T cells","Regulatory T cells","ANGPTL1",2943,23,0.00055950057363757,0.0339789330615019
+"Tumor","T cells","Regulatory T cells","EPB41L3",2943,23,0.000470997070970868,0.0339789330615019
+"Tumor","T cells","Regulatory T cells","KLB",2943,23,0.00296501096520392,0.203873598369011
+"Tumor","T cells","T follicular helper cells","ANGPTL1",548,21,0,0
+"Tumor","T cells","T follicular helper cells","EPB41L3",548,21,0,0
+"Tumor","T cells","T follicular helper cells","KLB",548,21,0.00221286907034617,0.182481751824818
+"Tumor","T cells","T helper 17 cells","ANGPTL1",1961,23,0,0
+"Tumor","T cells","T helper 17 cells","EPB41L3",1961,23,0,0
+"Tumor","T cells","T helper 17 cells","KLB",1961,23,0.000781637199177265,0.0509943906170321
+"Tumor","T cells","Unknown","ANGPTL1",1493,20,0,0
+"Tumor","T cells","Unknown","EPB41L3",1493,20,0.00329215361459877,0.200937709310114
+"Tumor","T cells","Unknown","KLB",1493,20,0.00582991305489969,0.334896182183523
+"Tumor","T cells","gamma delta T cells","ANGPTL1",219,13,0,0
+"Tumor","T cells","gamma delta T cells","EPB41L3",219,13,0.0069157362246485,0.45662100456621
+"Tumor","T cells","gamma delta T cells","KLB",219,13,0,0

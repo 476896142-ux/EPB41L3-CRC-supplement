@@ -1,0 +1,7 @@
+File,Bytes,SHA256,Dimensions,Resolution_or_compression
+Figure_ML_three_gene_panel.pdf,58246,dfc2a76f4fa8628b0f364a4c47693aca35b375f57490be18ab7aab60d8d4c16f,"(189.79, 244.83) mm",
+Figure_ML_three_gene_panel.png,748462,dc09d4cae5d3bc8084df9f1e956bf69a094975895b88df807b5f54e77c32ff1b,"(4488, 5787)","{'dpi': (599.9988, 599.9988), 'compression': None}"
+Figure_ML_three_gene_panel.tiff,917742,284c54649db62856a4767fa0b535bdcbd659139469c8311eff8ce63434038b4c,"(4488, 5787)","{'dpi': (600.0, 600.0), 'compression': 'tiff_lzw'}"
+Figure_S1_four_models_SHAP.pdf,67444,0a957451f0e7be9700e46ad8c346f0a323fb3e5ba126f97e4bac5b70c944b691,"(189.79, 189.79) mm",
+Figure_S1_four_models_SHAP.png,545563,f389be20f4e8744c5711622e472f80bb0b99840ba8775b37d2abd9ac523677fe,"(4488, 4488)","{'dpi': (599.9988, 599.9988), 'compression': None}"
+Figure_S1_four_models_SHAP.tiff,865162,c4b95a505176cc2e535b3b77c60aeffd7b82b234c264935d4a097b73e6084e3b,"(4488, 4488)","{'dpi': (600.0, 600.0), 'compression': 'tiff_lzw'}"

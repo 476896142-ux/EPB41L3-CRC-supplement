@@ -1,0 +1,18 @@
+# Credentials and local configuration
+.Renviron
+.env
+*.token
+*.pem
+*.key
+
+# Local analysis products and temporary files
+*.Rhistory
+*.RData
+*.Rproj.user/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large raw/intermediate inputs should be acquired locally, not committed
+data/raw/
+data/intermediate/

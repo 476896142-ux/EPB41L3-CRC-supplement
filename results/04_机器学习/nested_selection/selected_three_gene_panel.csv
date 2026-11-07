@@ -1,0 +1,4 @@
+Gene,Selection_method,C,Outer_selection_frequency,Status
+EPB41L3,SVM-RFE constrained to 3-5 genes,0.1,1,Exploratory locked panel
+KLB,SVM-RFE constrained to 3-5 genes,0.1,0.8,Exploratory locked panel
+ANGPTL1,SVM-RFE constrained to 3-5 genes,0.1,0.56,Exploratory locked panel

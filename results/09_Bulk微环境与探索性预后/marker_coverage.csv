@@ -1,0 +1,31 @@
+Cohort,Population,Available,Total,Missing
+TCGA,T cells,14,16,CHRM3-AS2;MGC40069
+TCGA,CD8 T cells,1,1,""
+TCGA,Cytotoxic lymphocytes,7,7,""
+TCGA,B lineage,8,9,IGKC
+TCGA,NK cells,8,9,KIR3DS1
+TCGA,Monocytic lineage,7,7,""
+TCGA,Myeloid dendritic cells,5,6,WFDC21P
+TCGA,Neutrophils,15,15,""
+TCGA,Endothelial cells,30,33,DIPK2B;ADGRL4;C
+TCGA,Fibroblasts,8,8,""
+GSE44076,T cells,14,16,CHRM3-AS2;MGC40069
+GSE44076,CD8 T cells,1,1,""
+GSE44076,Cytotoxic lymphocytes,7,7,""
+GSE44076,B lineage,9,9,""
+GSE44076,NK cells,8,9,KIR3DL1
+GSE44076,Monocytic lineage,7,7,""
+GSE44076,Myeloid dendritic cells,5,6,WFDC21P
+GSE44076,Neutrophils,14,15,VNN3
+GSE44076,Endothelial cells,32,33,C
+GSE44076,Fibroblasts,8,8,""
+GSE20916,T cells,15,16,MGC40069
+GSE20916,CD8 T cells,1,1,""
+GSE20916,Cytotoxic lymphocytes,7,7,""
+GSE20916,B lineage,9,9,""
+GSE20916,NK cells,8,9,KIR2DL1
+GSE20916,Monocytic lineage,7,7,""
+GSE20916,Myeloid dendritic cells,6,6,""
+GSE20916,Neutrophils,14,15,VNN3
+GSE20916,Endothelial cells,32,33,C
+GSE20916,Fibroblasts,8,8,""

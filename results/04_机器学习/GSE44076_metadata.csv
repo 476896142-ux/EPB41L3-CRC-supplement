@@ -1,0 +1,247 @@
+Sample,Cohort,Title,sample type,individual id,stage,location,gender,age,Class,Patient
+GSM1077598,GSE44076,Mucosa sample from A2119 healthy donnor,Mucosa,A2119,--,Left,Male,62,Normal,GSE44076_A2119
+GSM1077599,GSE44076,Mucosa sample from A2142 healthy donnor,Mucosa,A2142,--,Left,Female,77,Normal,GSE44076_A2142
+GSM1077600,GSE44076,Mucosa sample from B2104 healthy donnor,Mucosa,B2104,--,Left,Female,78,Normal,GSE44076_B2104
+GSM1077601,GSE44076,Mucosa sample from B2127 healthy donnor,Mucosa,B2127,--,Right,Male,65,Normal,GSE44076_B2127
+GSM1077602,GSE44076,Mucosa sample from B2150 healthy donnor,Mucosa,B2150,--,Right,Female,52,Normal,GSE44076_B2150
+GSM1077603,GSE44076,Mucosa sample from C2113 healthy donnor,Mucosa,C2113,--,Right,Male,63,Normal,GSE44076_C2113
+GSM1077604,GSE44076,Mucosa sample from C2136 healthy donnor,Mucosa,C2136,--,Right,Male,74,Normal,GSE44076_C2136
+GSM1077605,GSE44076,Mucosa sample from D2102 healthy donnor,Mucosa,D2102,--,Right,Male,70,Normal,GSE44076_D2102
+GSM1077606,GSE44076,Mucosa sample from D2125 healthy donnor,Mucosa,D2125,--,Right,Male,68,Normal,GSE44076_D2125
+GSM1077607,GSE44076,Mucosa sample from D2148 healthy donnor,Mucosa,D2148,--,Right,Male,52,Normal,GSE44076_D2148
+GSM1077608,GSE44076,Mucosa sample from E2115 healthy donnor,Mucosa,E2115,--,Right,Female,55,Normal,GSE44076_E2115
+GSM1077609,GSE44076,Mucosa sample from E2138 healthy donnor,Mucosa,E2138,--,Left,Female,79,Normal,GSE44076_E2138
+GSM1077610,GSE44076,Mucosa sample from F2123 healthy donnor,Mucosa,F2123,--,Left,Female,72,Normal,GSE44076_F2123
+GSM1077611,GSE44076,Mucosa sample from F2146 healthy donnor,Mucosa,F2146,--,Left,Female,25,Normal,GSE44076_F2146
+GSM1077612,GSE44076,Mucosa sample from G2120 healthy donnor,Mucosa,G2120,--,Right,Male,54,Normal,GSE44076_G2120
+GSM1077613,GSE44076,Mucosa sample from G2143 healthy donnor,Mucosa,G2143,--,Right,Female,52,Normal,GSE44076_G2143
+GSM1077614,GSE44076,Mucosa sample from H2111 healthy donnor,Mucosa,H2111,--,Left,Female,67,Normal,GSE44076_H2111
+GSM1077615,GSE44076,Mucosa sample from H2134 healthy donnor,Mucosa,H2134,--,Right,Male,79,Normal,GSE44076_H2134
+GSM1077616,GSE44076,Mucosa sample from J2106 healthy donnor,Mucosa,J2106,--,Left,Female,68,Normal,GSE44076_J2106
+GSM1077617,GSE44076,Mucosa sample from J2129 healthy donnor,Mucosa,J2129,--,Left,Male,38,Normal,GSE44076_J2129
+GSM1077618,GSE44076,Mucosa sample from K2114 healthy donnor,Mucosa,K2114,--,Right,Female,70,Normal,GSE44076_K2114
+GSM1077619,GSE44076,Mucosa sample from K2137 healthy donnor,Mucosa,K2137,--,Right,Female,51,Normal,GSE44076_K2137
+GSM1077620,GSE44076,Mucosa sample from L2112 healthy donnor,Mucosa,L2112,--,Right,Female,77,Normal,GSE44076_L2112
+GSM1077621,GSE44076,Mucosa sample from L2135 healthy donnor,Mucosa,L2135,--,Right,Male,66,Normal,GSE44076_L2135
+GSM1077622,GSE44076,Mucosa sample from M2121 healthy donnor,Mucosa,M2121,--,Left,Male,53,Normal,GSE44076_M2121
+GSM1077623,GSE44076,Mucosa sample from M2144 healthy donnor,Mucosa,M2144,--,Right,Female,45,Normal,GSE44076_M2144
+GSM1077624,GSE44076,Mucosa sample from N2105 healthy donnor,Mucosa,N2105,--,Right,Female,52,Normal,GSE44076_N2105
+GSM1077625,GSE44076,Mucosa sample from N2128 healthy donnor,Mucosa,N2128,--,Right,Female,61,Normal,GSE44076_N2128
+GSM1077626,GSE44076,Mucosa sample from P2101 healthy donnor,Mucosa,P2101,--,Left,Female,35,Normal,GSE44076_P2101
+GSM1077627,GSE44076,Mucosa sample from P2124 healthy donnor,Mucosa,P2124,--,Right,Female,63,Normal,GSE44076_P2124
+GSM1077628,GSE44076,Mucosa sample from P2147 healthy donnor,Mucosa,P2147,--,Right,Male,51,Normal,GSE44076_P2147
+GSM1077629,GSE44076,Mucosa sample from Q2109 healthy donnor,Mucosa,Q2109,--,Right,Male,51,Normal,GSE44076_Q2109
+GSM1077630,GSE44076,Mucosa sample from Q2132 healthy donnor,Mucosa,Q2132,--,Left,Male,77,Normal,GSE44076_Q2132
+GSM1077631,GSE44076,Mucosa sample from R2117 healthy donnor,Mucosa,R2117,--,Right,Female,77,Normal,GSE44076_R2117
+GSM1077632,GSE44076,Mucosa sample from R2140 healthy donnor,Mucosa,R2140,--,Left,Female,88,Normal,GSE44076_R2140
+GSM1077633,GSE44076,Mucosa sample from S2108 healthy donnor,Mucosa,S2108,--,Left,Male,59,Normal,GSE44076_S2108
+GSM1077634,GSE44076,Mucosa sample from S2131 healthy donnor,Mucosa,S2131,--,Right,Female,79,Normal,GSE44076_S2131
+GSM1077635,GSE44076,Mucosa sample from T2116 healthy donnor,Mucosa,T2116,--,Left,Female,66,Normal,GSE44076_T2116
+GSM1077636,GSE44076,Mucosa sample from T2139 healthy donnor,Mucosa,T2139,--,Left,Male,42,Normal,GSE44076_T2139
+GSM1077637,GSE44076,Mucosa sample from V2110 healthy donnor,Mucosa,V2110,--,Left,Male,86,Normal,GSE44076_V2110
+GSM1077638,GSE44076,Mucosa sample from V2133 healthy donnor,Mucosa,V2133,--,Right,Male,79,Normal,GSE44076_V2133
+GSM1077639,GSE44076,Mucosa sample from W2118 healthy donnor,Mucosa,W2118,--,Left,Male,74,Normal,GSE44076_W2118
+GSM1077640,GSE44076,Mucosa sample from W2141 healthy donnor,Mucosa,W2141,--,Right,Male,42,Normal,GSE44076_W2141
+GSM1077641,GSE44076,Mucosa sample from X2103 healthy donnor,Mucosa,X2103,--,Left,Male,43,Normal,GSE44076_X2103
+GSM1077642,GSE44076,Mucosa sample from X2126 healthy donnor,Mucosa,X2126,--,Right,Male,55,Normal,GSE44076_X2126
+GSM1077643,GSE44076,Mucosa sample from X2149 healthy donnor,Mucosa,X2149,--,Right,Female,82,Normal,GSE44076_X2149
+GSM1077644,GSE44076,Mucosa sample from Y2122 healthy donnor,Mucosa,Y2122,--,Left,Male,61,Normal,GSE44076_Y2122
+GSM1077645,GSE44076,Mucosa sample from Y2145 healthy donnor,Mucosa,Y2145,--,Left,Male,72,Normal,GSE44076_Y2145
+GSM1077646,GSE44076,Mucosa sample from Z2107 healthy donnor,Mucosa,Z2107,--,Left,Male,62,Normal,GSE44076_Z2107
+GSM1077647,GSE44076,Mucosa sample from Z2130 healthy donnor,Mucosa,Z2130,--,Left,Male,56,Normal,GSE44076_Z2130
+GSM1077648,GSE44076,Normal paired sample from A2004 patient,Normal,A2004,--,Left,Male,66,Normal,GSE44076_A2004
+GSM1077649,GSE44076,Normal paired sample from A2027 patient,Normal,A2027,--,Left,Female,51,Normal,GSE44076_A2027
+GSM1077650,GSE44076,Normal paired sample from A2050 patient,Normal,A2050,--,Left,Male,60,Normal,GSE44076_A2050
+GSM1077651,GSE44076,Normal paired sample from A2096 patient,Normal,A2096,--,Left,Female,85,Normal,GSE44076_A2096
+GSM1077652,GSE44076,Normal paired sample from B2012 patient,Normal,B2012,--,Right,Female,68,Normal,GSE44076_B2012
+GSM1077653,GSE44076,Normal paired sample from B2035 patient,Normal,B2035,--,Right,Male,68,Normal,GSE44076_B2035
+GSM1077654,GSE44076,Normal paired sample from B2058 patient,Normal,B2058,--,Left,Male,67,Normal,GSE44076_B2058
+GSM1077655,GSE44076,Normal paired sample from B2081 patient,Normal,B2081,--,Left,Female,79,Normal,GSE44076_B2081
+GSM1077656,GSE44076,Normal paired sample from C2021 patient,Normal,C2021,--,Left,Male,73,Normal,GSE44076_C2021
+GSM1077657,GSE44076,Normal paired sample from C2044 patient,Normal,C2044,--,Left,Female,59,Normal,GSE44076_C2044
+GSM1077658,GSE44076,Normal paired sample from C2067 patient,Normal,C2067,--,Left,Male,83,Normal,GSE44076_C2067
+GSM1077659,GSE44076,Normal paired sample from C2090 patient,Normal,C2090,--,Right,Male,70,Normal,GSE44076_C2090
+GSM1077660,GSE44076,Normal paired sample from D2010 patient,Normal,D2010,--,Left,Male,66,Normal,GSE44076_D2010
+GSM1077661,GSE44076,Normal paired sample from D2033 patient,Normal,D2033,--,Left,Male,70,Normal,GSE44076_D2033
+GSM1077662,GSE44076,Normal paired sample from D2056 patient,Normal,D2056,--,Left,Female,72,Normal,GSE44076_D2056
+GSM1077663,GSE44076,Normal paired sample from D2079 patient,Normal,D2079,--,Right,Male,78,Normal,GSE44076_D2079
+GSM1077664,GSE44076,Normal paired sample from E2023 patient,Normal,E2023,--,Left,Female,76,Normal,GSE44076_E2023
+GSM1077665,GSE44076,Normal paired sample from E2046 patient,Normal,E2046,--,Left,Male,64,Normal,GSE44076_E2046
+GSM1077666,GSE44076,Normal paired sample from E2069 patient,Normal,E2069,--,Left,Male,57,Normal,GSE44076_E2069
+GSM1077667,GSE44076,Normal paired sample from E2092 patient,Normal,E2092,--,Left,Male,76,Normal,GSE44076_E2092
+GSM1077668,GSE44076,Normal paired sample from F2008 patient,Normal,F2008,--,Left,Female,55,Normal,GSE44076_F2008
+GSM1077669,GSE44076,Normal paired sample from F2031 patient,Normal,F2031,--,Right,Male,78,Normal,GSE44076_F2031
+GSM1077670,GSE44076,Normal paired sample from F2054 patient,Normal,F2054,--,Left,Male,82,Normal,GSE44076_F2054
+GSM1077671,GSE44076,Normal paired sample from F2077 patient,Normal,F2077,--,Left,Male,69,Normal,GSE44076_F2077
+GSM1077672,GSE44076,Normal paired sample from F2100 patient,Normal,F2100,--,Left,Female,79,Normal,GSE44076_F2100
+GSM1077673,GSE44076,Normal paired sample from G2005 patient,Normal,G2005,--,Left,Male,86,Normal,GSE44076_G2005
+GSM1077674,GSE44076,Normal paired sample from G2028 patient,Normal,G2028,--,Right,Male,85,Normal,GSE44076_G2028
+GSM1077675,GSE44076,Normal paired sample from G2051 patient,Normal,G2051,--,Right,Female,64,Normal,GSE44076_G2051
+GSM1077676,GSE44076,Normal paired sample from G2074 patient,Normal,G2074,--,Left,Male,87,Normal,GSE44076_G2074
+GSM1077677,GSE44076,Normal paired sample from G2097 patient,Normal,G2097,--,Left,Female,73,Normal,GSE44076_G2097
+GSM1077678,GSE44076,Normal paired sample from H2019 patient,Normal,H2019,--,Left,Male,73,Normal,GSE44076_H2019
+GSM1077679,GSE44076,Normal paired sample from H2042 patient,Normal,H2042,--,Left,Male,75,Normal,GSE44076_H2042
+GSM1077680,GSE44076,Normal paired sample from H2065 patient,Normal,H2065,--,Right,Male,56,Normal,GSE44076_H2065
+GSM1077681,GSE44076,Normal paired sample from H2088 patient,Normal,H2088,--,Right,Male,60,Normal,GSE44076_H2088
+GSM1077682,GSE44076,Normal paired sample from J2014 patient,Normal,J2014,--,Right,Male,68,Normal,GSE44076_J2014
+GSM1077683,GSE44076,Normal paired sample from J2037 patient,Normal,J2037,--,Right,Male,43,Normal,GSE44076_J2037
+GSM1077684,GSE44076,Normal paired sample from J2060 patient,Normal,J2060,--,Right,Male,79,Normal,GSE44076_J2060
+GSM1077685,GSE44076,Normal paired sample from J2083 patient,Normal,J2083,--,Right,Female,62,Normal,GSE44076_J2083
+GSM1077686,GSE44076,Normal paired sample from K2022 patient,Normal,K2022,--,Left,Male,70,Normal,GSE44076_K2022
+GSM1077687,GSE44076,Normal paired sample from K2045 patient,Normal,K2045,--,Right,Male,80,Normal,GSE44076_K2045
+GSM1077688,GSE44076,Normal paired sample from K2068 patient,Normal,K2068,--,Left,Male,70,Normal,GSE44076_K2068
+GSM1077689,GSE44076,Normal paired sample from K2091 patient,Normal,K2091,--,Left,Male,49,Normal,GSE44076_K2091
+GSM1077690,GSE44076,Normal paired sample from L2020 patient,Normal,L2020,--,Left,Male,66,Normal,GSE44076_L2020
+GSM1077691,GSE44076,Normal paired sample from L2043 patient,Normal,L2043,--,Left,Male,70,Normal,GSE44076_L2043
+GSM1077692,GSE44076,Normal paired sample from L2066 patient,Normal,L2066,--,Right,Male,76,Normal,GSE44076_L2066
+GSM1077693,GSE44076,Normal paired sample from L2089 patient,Normal,L2089,--,Left,Male,83,Normal,GSE44076_L2089
+GSM1077694,GSE44076,Normal paired sample from M2006 patient,Normal,M2006,--,Right,Male,58,Normal,GSE44076_M2006
+GSM1077695,GSE44076,Normal paired sample from M2029 patient,Normal,M2029,--,Right,Male,67,Normal,GSE44076_M2029
+GSM1077696,GSE44076,Normal paired sample from M2052 patient,Normal,M2052,--,Left,Male,71,Normal,GSE44076_M2052
+GSM1077697,GSE44076,Normal paired sample from M2075 patient,Normal,M2075,--,Left,Male,79,Normal,GSE44076_M2075
+GSM1077698,GSE44076,Normal paired sample from M2098 patient,Normal,M2098,--,Right,Male,68,Normal,GSE44076_M2098
+GSM1077699,GSE44076,Normal paired sample from N2013 patient,Normal,N2013,--,Right,Male,65,Normal,GSE44076_N2013
+GSM1077700,GSE44076,Normal paired sample from N2036 patient,Normal,N2036,--,Left,Male,65,Normal,GSE44076_N2036
+GSM1077701,GSE44076,Normal paired sample from N2059 patient,Normal,N2059,--,Left,Male,74,Normal,GSE44076_N2059
+GSM1077702,GSE44076,Normal paired sample from N2082 patient,Normal,N2082,--,Left,Male,73,Normal,GSE44076_N2082
+GSM1077703,GSE44076,Normal paired sample from P2009 patient,Normal,P2009,--,Left,Male,62,Normal,GSE44076_P2009
+GSM1077704,GSE44076,Normal paired sample from P2032 patient,Normal,P2032,--,Left,Female,67,Normal,GSE44076_P2032
+GSM1077705,GSE44076,Normal paired sample from P2055 patient,Normal,P2055,--,Left,Male,57,Normal,GSE44076_P2055
+GSM1077706,GSE44076,Normal paired sample from P2078 patient,Normal,P2078,--,Left,Male,75,Normal,GSE44076_P2078
+GSM1077707,GSE44076,Normal paired sample from Q2017 patient,Normal,Q2017,--,Right,Female,74,Normal,GSE44076_Q2017
+GSM1077708,GSE44076,Normal paired sample from Q2040 patient,Normal,Q2040,--,Left,Male,75,Normal,GSE44076_Q2040
+GSM1077709,GSE44076,Normal paired sample from Q2063 patient,Normal,Q2063,--,Left,Male,74,Normal,GSE44076_Q2063
+GSM1077710,GSE44076,Normal paired sample from Q2086 patient,Normal,Q2086,--,Right,Male,83,Normal,GSE44076_Q2086
+GSM1077711,GSE44076,Normal paired sample from R2002 patient,Normal,R2002,--,Right,Female,84,Normal,GSE44076_R2002
+GSM1077712,GSE44076,Normal paired sample from R2025 patient,Normal,R2025,--,Left,Male,73,Normal,GSE44076_R2025
+GSM1077713,GSE44076,Normal paired sample from R2048 patient,Normal,R2048,--,Left,Male,73,Normal,GSE44076_R2048
+GSM1077714,GSE44076,Normal paired sample from R2071 patient,Normal,R2071,--,Left,Male,76,Normal,GSE44076_R2071
+GSM1077715,GSE44076,Normal paired sample from R2094 patient,Normal,R2094,--,Right,Female,61,Normal,GSE44076_R2094
+GSM1077716,GSE44076,Normal paired sample from S2016 patient,Normal,S2016,--,Left,Female,78,Normal,GSE44076_S2016
+GSM1077717,GSE44076,Normal paired sample from S2039 patient,Normal,S2039,--,Right,Male,78,Normal,GSE44076_S2039
+GSM1077718,GSE44076,Normal paired sample from S2062 patient,Normal,S2062,--,Right,Male,70,Normal,GSE44076_S2062
+GSM1077719,GSE44076,Normal paired sample from T2001 patient,Normal,T2001,--,Right,Female,79,Normal,GSE44076_T2001
+GSM1077720,GSE44076,Normal paired sample from T2024 patient,Normal,T2024,--,Right,Male,80,Normal,GSE44076_T2024
+GSM1077721,GSE44076,Normal paired sample from T2047 patient,Normal,T2047,--,Left,Male,70,Normal,GSE44076_T2047
+GSM1077722,GSE44076,Normal paired sample from T2070 patient,Normal,T2070,--,Right,Female,64,Normal,GSE44076_T2070
+GSM1077723,GSE44076,Normal paired sample from T2093 patient,Normal,T2093,--,Left,Female,81,Normal,GSE44076_T2093
+GSM1077724,GSE44076,Normal paired sample from V2018 patient,Normal,V2018,--,Left,Male,64,Normal,GSE44076_V2018
+GSM1077725,GSE44076,Normal paired sample from V2041 patient,Normal,V2041,--,Right,Male,73,Normal,GSE44076_V2041
+GSM1077726,GSE44076,Normal paired sample from V2064 patient,Normal,V2064,--,Left,Female,82,Normal,GSE44076_V2064
+GSM1077727,GSE44076,Normal paired sample from V2087 patient,Normal,V2087,--,Right,Male,72,Normal,GSE44076_V2087
+GSM1077728,GSE44076,Normal paired sample from W2003 patient,Normal,W2003,--,Left,Male,79,Normal,GSE44076_W2003
+GSM1077729,GSE44076,Normal paired sample from W2026 patient,Normal,W2026,--,Left,Female,69,Normal,GSE44076_W2026
+GSM1077730,GSE44076,Normal paired sample from W2049 patient,Normal,W2049,--,Left,Male,55,Normal,GSE44076_W2049
+GSM1077731,GSE44076,Normal paired sample from W2072 patient,Normal,W2072,--,Left,Female,67,Normal,GSE44076_W2072
+GSM1077732,GSE44076,Normal paired sample from W2095 patient,Normal,W2095,--,Right,Male,65,Normal,GSE44076_W2095
+GSM1077733,GSE44076,Normal paired sample from X2011 patient,Normal,X2011,--,Left,Male,75,Normal,GSE44076_X2011
+GSM1077734,GSE44076,Normal paired sample from X2034 patient,Normal,X2034,--,Left,Female,55,Normal,GSE44076_X2034
+GSM1077735,GSE44076,Normal paired sample from X2057 patient,Normal,X2057,--,Right,Male,73,Normal,GSE44076_X2057
+GSM1077736,GSE44076,Normal paired sample from X2080 patient,Normal,X2080,--,Left,Male,69,Normal,GSE44076_X2080
+GSM1077737,GSE44076,Normal paired sample from Y2007 patient,Normal,Y2007,--,Right,Female,62,Normal,GSE44076_Y2007
+GSM1077738,GSE44076,Normal paired sample from Y2030 patient,Normal,Y2030,--,Right,Female,69,Normal,GSE44076_Y2030
+GSM1077739,GSE44076,Normal paired sample from Y2053 patient,Normal,Y2053,--,Left,Male,71,Normal,GSE44076_Y2053
+GSM1077740,GSE44076,Normal paired sample from Y2076 patient,Normal,Y2076,--,Right,Male,78,Normal,GSE44076_Y2076
+GSM1077741,GSE44076,Normal paired sample from Y2099 patient,Normal,Y2099,--,Right,Male,72,Normal,GSE44076_Y2099
+GSM1077742,GSE44076,Normal paired sample from Z2015 patient,Normal,Z2015,--,Right,Male,84,Normal,GSE44076_Z2015
+GSM1077743,GSE44076,Normal paired sample from Z2038 patient,Normal,Z2038,--,Right,Female,65,Normal,GSE44076_Z2038
+GSM1077744,GSE44076,Normal paired sample from Z2061 patient,Normal,Z2061,--,Left,Male,53,Normal,GSE44076_Z2061
+GSM1077745,GSE44076,Normal paired sample from Z2084 patient,Normal,Z2084,--,Left,Male,81,Normal,GSE44076_Z2084
+GSM1077746,GSE44076,Tumor sample from A2004 patient,Tumor,A2004,IIA,Left,Male,66,Tumor,GSE44076_A2004
+GSM1077747,GSE44076,Tumor sample from A2027 patient,Tumor,A2027,IIA,Left,Female,51,Tumor,GSE44076_A2027
+GSM1077748,GSE44076,Tumor sample from A2050 patient,Tumor,A2050,IIA,Left,Male,60,Tumor,GSE44076_A2050
+GSM1077749,GSE44076,Tumor sample from A2096 patient,Tumor,A2096,IIA,Left,Female,85,Tumor,GSE44076_A2096
+GSM1077750,GSE44076,Tumor sample from B2012 patient,Tumor,B2012,IIA,Right,Female,68,Tumor,GSE44076_B2012
+GSM1077751,GSE44076,Tumor sample from B2035 patient,Tumor,B2035,IIA,Right,Male,68,Tumor,GSE44076_B2035
+GSM1077752,GSE44076,Tumor sample from B2058 patient,Tumor,B2058,IIB,Left,Male,67,Tumor,GSE44076_B2058
+GSM1077753,GSE44076,Tumor sample from B2081 patient,Tumor,B2081,IIA,Left,Female,79,Tumor,GSE44076_B2081
+GSM1077754,GSE44076,Tumor sample from C2021 patient,Tumor,C2021,IIA,Left,Male,73,Tumor,GSE44076_C2021
+GSM1077755,GSE44076,Tumor sample from C2044 patient,Tumor,C2044,IIA,Left,Female,59,Tumor,GSE44076_C2044
+GSM1077756,GSE44076,Tumor sample from C2067 patient,Tumor,C2067,IIA,Left,Male,83,Tumor,GSE44076_C2067
+GSM1077757,GSE44076,Tumor sample from C2090 patient,Tumor,C2090,IIA,Right,Male,70,Tumor,GSE44076_C2090
+GSM1077758,GSE44076,Tumor sample from D2010 patient,Tumor,D2010,IIA,Left,Male,66,Tumor,GSE44076_D2010
+GSM1077759,GSE44076,Tumor sample from D2033 patient,Tumor,D2033,IIA,Left,Male,70,Tumor,GSE44076_D2033
+GSM1077760,GSE44076,Tumor sample from D2056 patient,Tumor,D2056,IIA,Left,Female,72,Tumor,GSE44076_D2056
+GSM1077761,GSE44076,Tumor sample from D2079 patient,Tumor,D2079,IIA,Right,Male,78,Tumor,GSE44076_D2079
+GSM1077762,GSE44076,Tumor sample from E2023 patient,Tumor,E2023,IIA,Left,Female,76,Tumor,GSE44076_E2023
+GSM1077763,GSE44076,Tumor sample from E2046 patient,Tumor,E2046,IIB,Left,Male,64,Tumor,GSE44076_E2046
+GSM1077764,GSE44076,Tumor sample from E2069 patient,Tumor,E2069,IIA,Left,Male,57,Tumor,GSE44076_E2069
+GSM1077765,GSE44076,Tumor sample from E2092 patient,Tumor,E2092,IIA,Left,Male,76,Tumor,GSE44076_E2092
+GSM1077766,GSE44076,Tumor sample from F2008 patient,Tumor,F2008,IIA,Left,Female,55,Tumor,GSE44076_F2008
+GSM1077767,GSE44076,Tumor sample from F2031 patient,Tumor,F2031,IIA,Right,Male,78,Tumor,GSE44076_F2031
+GSM1077768,GSE44076,Tumor sample from F2054 patient,Tumor,F2054,IIA,Left,Male,82,Tumor,GSE44076_F2054
+GSM1077769,GSE44076,Tumor sample from F2077 patient,Tumor,F2077,IIA,Left,Male,69,Tumor,GSE44076_F2077
+GSM1077770,GSE44076,Tumor sample from F2100 patient,Tumor,F2100,IIA,Left,Female,79,Tumor,GSE44076_F2100
+GSM1077771,GSE44076,Tumor sample from G2005 patient,Tumor,G2005,IIB,Left,Male,86,Tumor,GSE44076_G2005
+GSM1077772,GSE44076,Tumor sample from G2028 patient,Tumor,G2028,IIA,Right,Male,85,Tumor,GSE44076_G2028
+GSM1077773,GSE44076,Tumor sample from G2051 patient,Tumor,G2051,IIB,Right,Female,64,Tumor,GSE44076_G2051
+GSM1077774,GSE44076,Tumor sample from G2074 patient,Tumor,G2074,IIA,Left,Male,87,Tumor,GSE44076_G2074
+GSM1077775,GSE44076,Tumor sample from G2097 patient,Tumor,G2097,IIA,Left,Female,73,Tumor,GSE44076_G2097
+GSM1077776,GSE44076,Tumor sample from H2019 patient,Tumor,H2019,IIA,Left,Male,73,Tumor,GSE44076_H2019
+GSM1077777,GSE44076,Tumor sample from H2042 patient,Tumor,H2042,IIA,Left,Male,75,Tumor,GSE44076_H2042
+GSM1077778,GSE44076,Tumor sample from H2065 patient,Tumor,H2065,IIA,Right,Male,56,Tumor,GSE44076_H2065
+GSM1077779,GSE44076,Tumor sample from H2088 patient,Tumor,H2088,IIA,Right,Male,60,Tumor,GSE44076_H2088
+GSM1077780,GSE44076,Tumor sample from J2014 patient,Tumor,J2014,IIA,Right,Male,68,Tumor,GSE44076_J2014
+GSM1077781,GSE44076,Tumor sample from J2037 patient,Tumor,J2037,IIA,Right,Male,43,Tumor,GSE44076_J2037
+GSM1077782,GSE44076,Tumor sample from J2060 patient,Tumor,J2060,IIA,Right,Male,79,Tumor,GSE44076_J2060
+GSM1077783,GSE44076,Tumor sample from J2083 patient,Tumor,J2083,IIA,Right,Female,62,Tumor,GSE44076_J2083
+GSM1077784,GSE44076,Tumor sample from K2022 patient,Tumor,K2022,IIA,Left,Male,70,Tumor,GSE44076_K2022
+GSM1077785,GSE44076,Tumor sample from K2045 patient,Tumor,K2045,IIA,Right,Male,80,Tumor,GSE44076_K2045
+GSM1077786,GSE44076,Tumor sample from K2068 patient,Tumor,K2068,IIA,Left,Male,70,Tumor,GSE44076_K2068
+GSM1077787,GSE44076,Tumor sample from K2091 patient,Tumor,K2091,IIA,Left,Male,49,Tumor,GSE44076_K2091
+GSM1077788,GSE44076,Tumor sample from L2020 patient,Tumor,L2020,IIA,Left,Male,66,Tumor,GSE44076_L2020
+GSM1077789,GSE44076,Tumor sample from L2043 patient,Tumor,L2043,IIA,Left,Male,70,Tumor,GSE44076_L2043
+GSM1077790,GSE44076,Tumor sample from L2066 patient,Tumor,L2066,IIA,Right,Male,76,Tumor,GSE44076_L2066
+GSM1077791,GSE44076,Tumor sample from L2089 patient,Tumor,L2089,IIA,Left,Male,83,Tumor,GSE44076_L2089
+GSM1077792,GSE44076,Tumor sample from M2006 patient,Tumor,M2006,IIA,Right,Male,58,Tumor,GSE44076_M2006
+GSM1077793,GSE44076,Tumor sample from M2029 patient,Tumor,M2029,IIA,Right,Male,67,Tumor,GSE44076_M2029
+GSM1077794,GSE44076,Tumor sample from M2052 patient,Tumor,M2052,IIA,Left,Male,71,Tumor,GSE44076_M2052
+GSM1077795,GSE44076,Tumor sample from M2075 patient,Tumor,M2075,IIA,Left,Male,79,Tumor,GSE44076_M2075
+GSM1077796,GSE44076,Tumor sample from M2098 patient,Tumor,M2098,IIA,Right,Male,68,Tumor,GSE44076_M2098
+GSM1077797,GSE44076,Tumor sample from N2013 patient,Tumor,N2013,IIA,Right,Male,65,Tumor,GSE44076_N2013
+GSM1077798,GSE44076,Tumor sample from N2036 patient,Tumor,N2036,IIA,Left,Male,65,Tumor,GSE44076_N2036
+GSM1077799,GSE44076,Tumor sample from N2059 patient,Tumor,N2059,IIA,Left,Male,74,Tumor,GSE44076_N2059
+GSM1077800,GSE44076,Tumor sample from N2082 patient,Tumor,N2082,IIA,Left,Male,73,Tumor,GSE44076_N2082
+GSM1077801,GSE44076,Tumor sample from P2009 patient,Tumor,P2009,IIA,Left,Male,62,Tumor,GSE44076_P2009
+GSM1077802,GSE44076,Tumor sample from P2032 patient,Tumor,P2032,IIA,Left,Female,67,Tumor,GSE44076_P2032
+GSM1077803,GSE44076,Tumor sample from P2055 patient,Tumor,P2055,IIA,Left,Male,57,Tumor,GSE44076_P2055
+GSM1077804,GSE44076,Tumor sample from P2078 patient,Tumor,P2078,IIB,Left,Male,75,Tumor,GSE44076_P2078
+GSM1077805,GSE44076,Tumor sample from Q2017 patient,Tumor,Q2017,IIB,Right,Female,74,Tumor,GSE44076_Q2017
+GSM1077806,GSE44076,Tumor sample from Q2040 patient,Tumor,Q2040,IIA,Left,Male,75,Tumor,GSE44076_Q2040
+GSM1077807,GSE44076,Tumor sample from Q2063 patient,Tumor,Q2063,IIB,Left,Male,74,Tumor,GSE44076_Q2063
+GSM1077808,GSE44076,Tumor sample from Q2086 patient,Tumor,Q2086,IIA,Right,Male,83,Tumor,GSE44076_Q2086
+GSM1077809,GSE44076,Tumor sample from R2002 patient,Tumor,R2002,IIA,Right,Female,84,Tumor,GSE44076_R2002
+GSM1077810,GSE44076,Tumor sample from R2025 patient,Tumor,R2025,IIA,Left,Male,73,Tumor,GSE44076_R2025
+GSM1077811,GSE44076,Tumor sample from R2048 patient,Tumor,R2048,IIA,Left,Male,73,Tumor,GSE44076_R2048
+GSM1077812,GSE44076,Tumor sample from R2071 patient,Tumor,R2071,IIA,Left,Male,76,Tumor,GSE44076_R2071
+GSM1077813,GSE44076,Tumor sample from R2094 patient,Tumor,R2094,IIA,Right,Female,61,Tumor,GSE44076_R2094
+GSM1077814,GSE44076,Tumor sample from S2016 patient,Tumor,S2016,IIA,Left,Female,78,Tumor,GSE44076_S2016
+GSM1077815,GSE44076,Tumor sample from S2039 patient,Tumor,S2039,IIA,Right,Male,78,Tumor,GSE44076_S2039
+GSM1077816,GSE44076,Tumor sample from S2062 patient,Tumor,S2062,IIA,Right,Male,70,Tumor,GSE44076_S2062
+GSM1077817,GSE44076,Tumor sample from T2001 patient,Tumor,T2001,IIA,Right,Female,79,Tumor,GSE44076_T2001
+GSM1077818,GSE44076,Tumor sample from T2024 patient,Tumor,T2024,IIA,Right,Male,80,Tumor,GSE44076_T2024
+GSM1077819,GSE44076,Tumor sample from T2047 patient,Tumor,T2047,IIA,Left,Male,70,Tumor,GSE44076_T2047
+GSM1077820,GSE44076,Tumor sample from T2070 patient,Tumor,T2070,IIA,Right,Female,64,Tumor,GSE44076_T2070
+GSM1077821,GSE44076,Tumor sample from T2093 patient,Tumor,T2093,IIB,Left,Female,81,Tumor,GSE44076_T2093
+GSM1077822,GSE44076,Tumor sample from V2018 patient,Tumor,V2018,IIA,Left,Male,64,Tumor,GSE44076_V2018
+GSM1077823,GSE44076,Tumor sample from V2041 patient,Tumor,V2041,IIA,Right,Male,73,Tumor,GSE44076_V2041
+GSM1077824,GSE44076,Tumor sample from V2064 patient,Tumor,V2064,IIA,Left,Female,82,Tumor,GSE44076_V2064
+GSM1077825,GSE44076,Tumor sample from V2087 patient,Tumor,V2087,IIA,Right,Male,72,Tumor,GSE44076_V2087
+GSM1077826,GSE44076,Tumor sample from W2003 patient,Tumor,W2003,IIA,Left,Male,79,Tumor,GSE44076_W2003
+GSM1077827,GSE44076,Tumor sample from W2026 patient,Tumor,W2026,IIA,Left,Female,69,Tumor,GSE44076_W2026
+GSM1077828,GSE44076,Tumor sample from W2049 patient,Tumor,W2049,IIA,Left,Male,55,Tumor,GSE44076_W2049
+GSM1077829,GSE44076,Tumor sample from W2072 patient,Tumor,W2072,IIA,Left,Female,67,Tumor,GSE44076_W2072
+GSM1077830,GSE44076,Tumor sample from W2095 patient,Tumor,W2095,IIA,Right,Male,65,Tumor,GSE44076_W2095
+GSM1077831,GSE44076,Tumor sample from X2011 patient,Tumor,X2011,IIA,Left,Male,75,Tumor,GSE44076_X2011
+GSM1077832,GSE44076,Tumor sample from X2034 patient,Tumor,X2034,IIA,Left,Female,55,Tumor,GSE44076_X2034
+GSM1077833,GSE44076,Tumor sample from X2057 patient,Tumor,X2057,IIA,Right,Male,73,Tumor,GSE44076_X2057
+GSM1077834,GSE44076,Tumor sample from X2080 patient,Tumor,X2080,IIA,Left,Male,69,Tumor,GSE44076_X2080
+GSM1077835,GSE44076,Tumor sample from Y2007 patient,Tumor,Y2007,IIA,Right,Female,62,Tumor,GSE44076_Y2007
+GSM1077836,GSE44076,Tumor sample from Y2030 patient,Tumor,Y2030,IIA,Right,Female,69,Tumor,GSE44076_Y2030
+GSM1077837,GSE44076,Tumor sample from Y2053 patient,Tumor,Y2053,IIA,Left,Male,71,Tumor,GSE44076_Y2053
+GSM1077838,GSE44076,Tumor sample from Y2076 patient,Tumor,Y2076,IIA,Right,Male,78,Tumor,GSE44076_Y2076
+GSM1077839,GSE44076,Tumor sample from Y2099 patient,Tumor,Y2099,IIA,Right,Male,72,Tumor,GSE44076_Y2099
+GSM1077840,GSE44076,Tumor sample from Z2015 patient,Tumor,Z2015,IIA,Right,Male,84,Tumor,GSE44076_Z2015
+GSM1077841,GSE44076,Tumor sample from Z2038 patient,Tumor,Z2038,IIA,Right,Female,65,Tumor,GSE44076_Z2038
+GSM1077842,GSE44076,Tumor sample from Z2061 patient,Tumor,Z2061,IIA,Left,Male,53,Tumor,GSE44076_Z2061
+GSM1077843,GSE44076,Tumor sample from Z2084 patient,Tumor,Z2084,IIA,Left,Male,81,Tumor,GSE44076_Z2084

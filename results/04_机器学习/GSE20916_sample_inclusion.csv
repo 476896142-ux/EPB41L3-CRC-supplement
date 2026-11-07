@@ -1,0 +1,146 @@
+title,geo_accession,tissue,tissue morphology,malignacy,sex,platform_id,protocol,age,localization,Included,Reason
+mucosa_normal_colon_1 (micro),GSM523242,colon tumor,mucosa,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_normal_colon_2 (micro),GSM523243,colon tumor,mucosa,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_adenoma_3 (micro),GSM523244,colon tumor,mucosa,adenoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_normal_colon_4 (micro),GSM523245,colon tumor,colonic crypt epithelial cells,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_normal_colon_5 (micro),GSM523246,colon tumor,mucosa,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_adenoma_6 (micro),GSM523247,colon tumor,mucosa,adenoma,female,GPL570,,,,False,microdissected tissue
+mucosa_carcinoma_7 (micro),GSM523248,colon tumor,mucosa,carcinoma,female,GPL570,,,,False,microdissected tissue
+mucosa_carcinoma_8 (micro),GSM523249,colon tumor,mucosa,carcinoma,female,GPL570,,,,False,microdissected tissue
+mucosa_carcinoma_9 (micro),GSM523250,colon tumor,mucosa,carcinoma,female,GPL570,,,,False,microdissected tissue
+mucosa_adenoma_10 (micro),GSM523251,colon tumor,mucosa,adenoma,female,GPL570,,,,False,microdissected tissue
+mucosa_adenoma_11 (micro),GSM523252,colon tumor,mucosa,adenoma,female,GPL570,,,,False,microdissected tissue
+mucosa_carcinoma_12 (micro),GSM523253,colon tumor,mucosa,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_adenoma_13 (micro),GSM523254,colon tumor,colonic crypt epithelial cells,adenoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_normal_colon_14 (micro),GSM523255,colon tumor,colonic crypt epithelial cells,normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_adenoma_15 (micro),GSM523256,colon tumor,colonic crypt epithelial cells,adenoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_carcinoma_16 (micro),GSM523257,colon tumor,colonic crypt epithelial cells,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_carcinoma_17 (micro),GSM523258,colon tumor,colonic crypt epithelial cells,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_adenoma_18 (micro),GSM523259,colon tumor,colonic crypt epithelial cells,adenoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_normal_colon_19 (micro),GSM523260,colon tumor,colonic crypt epithelial cells,normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_adenoma_20 (micro),GSM523261,colon tumor,colonic crypt epithelial cells,adenoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_carcinoma_21 (micro),GSM523262,colon tumor,colonic crypt epithelial cells,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_carcinoma_22 (micro),GSM523263,colon tumor,colonic crypt epithelial cells,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_distant_normal_colon_23 (micro),GSM523264,normal colon,colonic crypt epithelial cells,distant normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_distant_normal_colon_24 (micro),GSM523265,normal colon,colonic crypt epithelial cells,distant normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_distant_normal_colon_25 (micro),GSM523266,normal colon,colonic crypt epithelial cells,distant normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_distant_normal_colon_26 (micro),GSM523267,normal colon,colonic crypt epithelial cells,distant normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_distant_normal_colon_27 (micro),GSM523268,normal colon,mucosa,distant normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_distant_normal_colon_28 (micro),GSM523269,normal colon,mucosa,distant normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_distant_normal_colon_29 (micro),GSM523270,normal colon,mucosa,distant normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_distant_normal_colon_30 (micro),GSM523271,normal colon,mucosa,distant normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_normal_colon_31 (micro),GSM523272,colon tumor,colonic crypt epithelial cells,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_normal_colon_32 (micro),GSM523273,colon tumor,mucosa,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_normal_colon_33 (micro),GSM523274,colon tumor,mucosa,normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_carcinoma_34 (micro),GSM523275,colon tumor,mucosa,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_normal_colon_35 (micro),GSM523276,colon tumor,colonic crypt epithelial cells,normal colon,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_adenoma_36 (micro),GSM523277,colon tumor,colonic crypt epithelial cells,adenoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_carcinoma_37 (micro),GSM523278,colon tumor,colonic crypt epithelial cells,carcinoma,female,GPL570,,,,False,microdissected tissue
+colonic_crypt_epithelial_cells_distant_normal_colon_38 (micro),GSM523279,normal colon,colonic crypt epithelial cells,distant normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_distant_normal_colon_39 (micro),GSM523280,normal colon,mucosa,distant normal colon,female,GPL570,,,,False,microdissected tissue
+mucosa_adenoma_40 (micro),GSM523281,colon tumor,mucosa,adenoma,female,GPL570,,,,False,microdissected tissue
+normal_colon_1 (macro),GSM523282,normal colon,,,female,GPL570,surgery,64,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_2,GSM523283,adenocarcinoma,,,female,GPL570,surgery,64,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_3,GSM523284,adenocarcinoma,,,male,GPL570,surgery,63,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_4,GSM523285,adenocarcinoma,,,female,GPL570,surgery,65,sigmoid,True,macro primary carcinoma / normal colon
+normal_colon_5 (macro),GSM523286,normal colon,,,female,GPL570,colonoscopy,50,sigmoid,True,macro primary carcinoma / normal colon
+adenoma_6,GSM523287,adenoma,,,female,GPL570,colonoscopy,57,sigmoid,False,adenoma
+adenoma_7,GSM523288,adenoma,,,male,GPL570,colonoscopy,64,sigmoid,False,adenoma
+normal_colon_8 (macro),GSM523289,normal colon,,,male,GPL570,surgery,74,ascending,True,macro primary carcinoma / normal colon
+normal_colon_9 (macro),GSM523290,normal colon,,,female,GPL570,colonoscopy,55,caecum,True,macro primary carcinoma / normal colon
+normal_colon_10 (macro),GSM523291,normal colon,,,male,GPL570,surgery,55,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_11,GSM523292,adenocarcinoma,,,male,GPL570,surgery,55,rectum,True,macro primary carcinoma / normal colon
+adenoma_12,GSM523293,adenoma,,,female,GPL570,colonoscopy,77,ascending,False,adenoma
+adenoma_13,GSM523294,adenoma,,,female,GPL570,colonoscopy,72,descending,False,adenoma
+adenoma_14,GSM523295,adenoma,,,male,GPL570,colonoscopy,80,transverse,False,adenoma
+adenocarcinoma_15,GSM523296,adenocarcinoma,,,female,GPL570,surgery,64,rectum,True,macro primary carcinoma / normal colon
+normal_colon_16 (macro),GSM523297,normal colon,,,male,GPL570,surgery,69,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_17,GSM523298,adenocarcinoma,,,male,GPL570,surgery,69,sigmoid,True,macro primary carcinoma / normal colon
+normal_colon_18 (macro),GSM523299,normal colon,,,female,GPL570,colonoscopy,62,ascending,True,macro primary carcinoma / normal colon
+adenoma_19,GSM523300,adenoma,,,female,GPL570,colonoscopy,60,descending,False,adenoma
+adenoma_20,GSM523301,adenoma,,,male,GPL570,colonoscopy,62,transverse,False,adenoma
+adenoma_21,GSM523302,adenoma,,,male,GPL570,colonoscopy,79,sigmoid,False,adenoma
+adenocarcinoma_22,GSM523303,adenocarcinoma,,,female,GPL570,surgery,55,descending,True,macro primary carcinoma / normal colon
+normal_colon_23 (macro),GSM523304,normal colon,,,male,GPL570,surgery,59,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_24,GSM523305,adenocarcinoma,,,male,GPL570,surgery,59,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_25,GSM523306,adenocarcinoma,,,male,GPL570,surgery,47,caecum,True,macro primary carcinoma / normal colon
+adenoma_26,GSM523307,adenoma,,,male,GPL570,colonoscopy,81,transverse,False,adenoma
+adenoma_27,GSM523308,adenoma,,,female,GPL570,colonoscopy,61,sigmoid,False,adenoma
+adenoma_28,GSM523309,adenoma,,,male,GPL570,colonoscopy,79,sigmoid,False,adenoma
+normal_colon_29 (macro),GSM523310,normal colon,,,female,GPL570,surgery,61,sigmoid,True,macro primary carcinoma / normal colon
+normal_colon_30 (macro),GSM523311,normal colon,,,female,GPL570,surgery,61,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_31,GSM523312,adenocarcinoma,,,female,GPL570,surgery,61,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_32,GSM523313,adenocarcinoma,,,female,GPL570,surgery,71,rectosigmoid,True,macro primary carcinoma / normal colon
+normal_colon_33 (macro),GSM523314,normal colon,,,male,GPL570,colonoscopy,62,transverse,True,macro primary carcinoma / normal colon
+adenoma_34,GSM523315,adenoma,,,female,GPL570,colonoscopy,68,sigmoid,False,adenoma
+adenocarcinoma_35,GSM523316,adenocarcinoma,,,female,GPL570,surgery,55,descending,True,macro primary carcinoma / normal colon
+adenocarcinoma_36,GSM523317,adenocarcinoma,,,female,GPL570,surgery,82,ascending,True,macro primary carcinoma / normal colon
+adenocarcinoma_37,GSM523318,adenocarcinoma,,,female,GPL570,surgery,74,caecum,True,macro primary carcinoma / normal colon
+adenoma_38,GSM523319,adenoma,,,male,GPL570,colonoscopy,76,transverse,False,adenoma
+adenoma_39,GSM523320,adenoma,,,male,GPL570,colonoscopy,59,sigmoid,False,adenoma
+adenoma_40,GSM523321,adenoma,,,male,GPL570,colonoscopy,83,caecum,False,adenoma
+adenoma_41,GSM523322,adenoma,,,male,GPL570,colonoscopy,46,rectum,False,adenoma
+adenocarcinoma_42,GSM523323,adenocarcinoma,,,male,GPL570,surgery,74,rectosigmoid,True,macro primary carcinoma / normal colon
+normal_colon_43 (macro),GSM523324,normal colon,,,female,GPL570,surgery,62,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_44,GSM523325,adenocarcinoma,,,female,GPL570,surgery,62,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_45,GSM523326,adenocarcinoma,,,male,GPL570,surgery,80,caecum,True,macro primary carcinoma / normal colon
+adenoma_46,GSM523327,adenoma,,,female,GPL570,colonoscopy,55,rectum,False,adenoma
+adenoma_47,GSM523328,adenoma,,,male,GPL570,colonoscopy,59,sigmoid,False,adenoma
+adenoma_48,GSM523329,adenoma,,,male,GPL570,colonoscopy,60,sigmoid,False,adenoma
+normal_colon_49 (macro),GSM523330,normal colon,,,female,GPL570,surgery,65,ascending,True,macro primary carcinoma / normal colon
+adenocarcinoma_50,GSM523331,adenocarcinoma,,,female,GPL570,surgery,65,ascending,True,macro primary carcinoma / normal colon
+adenocarcinoma_51,GSM523332,adenocarcinoma,,,male,GPL570,surgery,63,ascending,True,macro primary carcinoma / normal colon
+adenoma_52,GSM523333,adenoma,,,male,GPL570,colonoscopy,41,sigmoid,False,adenoma
+adenoma_53,GSM523334,adenoma,,,male,GPL570,colonoscopy,55,sigmoid,False,adenoma
+adenoma_54,GSM523335,adenoma,,,female,GPL570,colonoscopy,43,sigmoid,False,adenoma
+adenoma_55,GSM523336,adenoma,,,female,GPL570,colonoscopy,61,rectum,False,adenoma
+adenocarcinoma_56,GSM523337,adenocarcinoma,,,female,GPL570,surgery,78,ascending,True,macro primary carcinoma / normal colon
+normal_colon_57 (macro),GSM523338,normal colon,,,female,GPL570,surgery,71,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_58,GSM523339,adenocarcinoma,,,female,GPL570,surgery,-,rectum,True,macro primary carcinoma / normal colon
+adenoma_59,GSM523340,adenoma,,,male,GPL570,colonoscopy,78,sigmoid,False,adenoma
+adenoma_60,GSM523341,adenoma,,,male,GPL570,colonoscopy,55,sigmoid,False,adenoma
+adenoma_61,GSM523342,adenoma,,,male,GPL570,colonoscopy,68,sigmoid,False,adenoma
+normal_colon_62 (macro),GSM523343,normal colon,,,female,GPL570,surgery,38,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_63,GSM523344,adenocarcinoma,,,female,GPL570,surgery,38,sigmoid,True,macro primary carcinoma / normal colon
+adenocarcinoma_64,GSM523345,adenocarcinoma,,,male,GPL570,surgery,60,rectum,True,macro primary carcinoma / normal colon
+adenoma_65,GSM523346,adenoma,,,male,GPL570,colonoscopy,57,sigmoid,False,adenoma
+adenoma_66,GSM523347,adenoma,,,female,GPL570,colonoscopy,75,caecum,False,adenoma
+adenoma_67,GSM523348,adenoma,,,male,GPL570,colonoscopy,59,sigmoid,False,adenoma
+normal_colon_68 (macro),GSM523349,normal colon,,,male,GPL570,surgery,78,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_69,GSM523350,adenocarcinoma,,,male,GPL570,surgery,78,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_70,GSM523351,adenocarcinoma,,,male,GPL570,surgery,73,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_71,GSM523352,adenocarcinoma,,,male,GPL570,surgery,54,descending,True,macro primary carcinoma / normal colon
+adenoma_72,GSM523353,adenoma,,,male,GPL570,colonoscopy,48,rectum,False,adenoma
+adenoma_73,GSM523354,adenoma,,,female,GPL570,colonoscopy,67,sigmoid,False,adenoma
+adenoma_74,GSM523355,adenoma,,,male,GPL570,colonoscopy,78,sigmoid,False,adenoma
+adenoma_75,GSM523356,adenoma,,,male,GPL570,colonoscopy,53,caecum,False,adenoma
+adenocarcinoma_76,GSM523357,adenocarcinoma,,,male,GPL570,surgery,50,sigmoid,True,macro primary carcinoma / normal colon
+normal_colon_77 (macro),GSM523358,normal colon,,,female,GPL570,surgery,66,descending,True,macro primary carcinoma / normal colon
+adenocarcinoma_78,GSM523359,adenocarcinoma,,,female,GPL570,surgery,66,descending+sigmoid,True,macro primary carcinoma / normal colon
+normal_colon_79 (macro),GSM523360,normal colon,,,female,GPL570,colonoscopy,50,rectum,True,macro primary carcinoma / normal colon
+adenoma_80,GSM523361,adenoma,,,female,GPL570,colonoscopy,72,transverse,False,adenoma
+adenoma_81,GSM523362,adenoma,,,female,GPL570,colonoscopy,56,sigmoid,False,adenoma
+adenoma_82,GSM523363,adenoma,,,female,GPL570,colonoscopy,48,rectum,False,adenoma
+normal_colon_83 (macro),GSM523364,normal colon,,,female,GPL570,surgery,69,sigmoid,True,macro primary carcinoma / normal colon
+normal_colon_84 (macro),GSM523365,normal colon,,,female,GPL570,surgery,51,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_85,GSM523366,adenocarcinoma,,,male,GPL570,surgery,80,sigmoid,True,macro primary carcinoma / normal colon
+adenoma_86,GSM523367,adenoma,,,male,GPL570,colonoscopy,59,sigmoid,False,adenoma
+adenocarcinoma_87,GSM523368,adenocarcinoma,,,male,GPL570,surgery,58,transverse,True,macro primary carcinoma / normal colon
+normal_colon_88 (macro),GSM523369,normal colon,,,male,GPL570,colonoscopy,57,transverse,True,macro primary carcinoma / normal colon
+adenocarcinoma_89,GSM523370,adenocarcinoma,,,male,GPL570,surgery,69,transverse,True,macro primary carcinoma / normal colon
+adenocarcinoma_90,GSM523371,adenocarcinoma,,,female,GPL570,surgery,62,descending,True,macro primary carcinoma / normal colon
+adenocarcinoma_91,GSM523372,adenocarcinoma,,,female,GPL570,surgery,76,ascending,True,macro primary carcinoma / normal colon
+normal_colon_92 (macro),GSM523373,normal colon,,,female,GPL570,colonoscopy,54,sigmoid,True,macro primary carcinoma / normal colon
+adenoma_93,GSM523374,adenoma,,,female,GPL570,colonoscopy,57,sigmoid,False,adenoma
+adenoma_94,GSM523375,adenoma,,,male,GPL570,colonoscopy,82,sigmoid,False,adenoma
+adenoma_95,GSM523376,adenoma,,,male,GPL570,colonoscopy,66,ascending,False,adenoma
+normal_colon_96 (macro),GSM523377,normal colon,,,female,GPL570,surgery,65,rectum,True,macro primary carcinoma / normal colon
+adenocarcinoma_97,GSM523378,adenocarcinoma,,,female,GPL570,surgery,56,ascending,True,macro primary carcinoma / normal colon
+adenocarcinoma_98,GSM523379,adenocarcinoma,,,female,GPL570,surgery,76,caecum,True,macro primary carcinoma / normal colon
+adenocarcinoma_99,GSM523380,adenocarcinoma,,,female,GPL570,surgery,69,ascending,True,macro primary carcinoma / normal colon
+adenoma_100,GSM523381,adenoma,,,male,GPL570,colonoscopy,42,sigmoid,False,adenoma
+normal_colon_101 (macro),GSM523382,normal colon,,,male,GPL570,surgery,77,caecum,True,macro primary carcinoma / normal colon
+adenoma_102,GSM523383,adenoma,,,male,GPL570,colonoscopy,52,ascending,False,adenoma
+adenoma_103,GSM523384,adenoma,,,female,GPL570,colonoscopy,57,sigmoid,False,adenoma
+adenoma_104,GSM523385,adenoma,,,female,GPL570,colonoscopy,46,rectum,False,adenoma
+adenoma_105,GSM523386,adenoma,,,female,GPL570,colonoscopy,67,rectum,False,adenoma

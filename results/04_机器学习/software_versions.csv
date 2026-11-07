@@ -1,0 +1,8 @@
+"Package","Version"
+"R","4.6.1"
+"glmnet","5.0"
+"rf","4.7.1.2"
+"svmRadial","0.9.33"
+"nnet","7.3.21"
+"caret","7.0.1"
+"fastshap","0.1.1"

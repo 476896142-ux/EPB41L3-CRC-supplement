@@ -1,0 +1,3 @@
+"collection","ranked_genes","eligible","tested","significant","missing_p","zero_p","selected_curves_checked","max_ES_difference","BH_verified"
+"GO",12990,6920,6920,993,0,0,15,3.14926953182137e-07,TRUE
+"KEGG",12990,352,352,104,0,0,5,2.05776344186503e-07,TRUE

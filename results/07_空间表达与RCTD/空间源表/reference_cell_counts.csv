@@ -1,0 +1,392 @@
+"Var1","Var2","Freq"
+"SMC01","B cells",100
+"SMC02","B cells",90
+"SMC03","B cells",100
+"SMC04","B cells",100
+"SMC05","B cells",100
+"SMC06","B cells",100
+"SMC07","B cells",100
+"SMC08","B cells",100
+"SMC09","B cells",21
+"SMC10","B cells",100
+"SMC11","B cells",100
+"SMC14","B cells",58
+"SMC15","B cells",100
+"SMC16","B cells",12
+"SMC17","B cells",44
+"SMC18","B cells",61
+"SMC19","B cells",100
+"SMC20","B cells",89
+"SMC21","B cells",67
+"SMC22","B cells",23
+"SMC23","B cells",100
+"SMC24","B cells",100
+"SMC25","B cells",100
+"SMC01","Epithelial cells",100
+"SMC02","Epithelial cells",100
+"SMC03","Epithelial cells",100
+"SMC04","Epithelial cells",100
+"SMC05","Epithelial cells",13
+"SMC06","Epithelial cells",100
+"SMC07","Epithelial cells",100
+"SMC08","Epithelial cells",100
+"SMC09","Epithelial cells",100
+"SMC10","Epithelial cells",100
+"SMC11","Epithelial cells",100
+"SMC14","Epithelial cells",100
+"SMC15","Epithelial cells",100
+"SMC16","Epithelial cells",100
+"SMC17","Epithelial cells",100
+"SMC18","Epithelial cells",100
+"SMC19","Epithelial cells",100
+"SMC20","Epithelial cells",100
+"SMC21","Epithelial cells",100
+"SMC22","Epithelial cells",100
+"SMC23","Epithelial cells",100
+"SMC24","Epithelial cells",100
+"SMC25","Epithelial cells",100
+"SMC01","Myeloids: Pro-inflammatory",62
+"SMC02","Myeloids: Pro-inflammatory",100
+"SMC03","Myeloids: Pro-inflammatory",100
+"SMC04","Myeloids: Pro-inflammatory",100
+"SMC05","Myeloids: Pro-inflammatory",4
+"SMC06","Myeloids: Pro-inflammatory",77
+"SMC07","Myeloids: Pro-inflammatory",72
+"SMC08","Myeloids: Pro-inflammatory",100
+"SMC09","Myeloids: Pro-inflammatory",100
+"SMC10","Myeloids: Pro-inflammatory",100
+"SMC11","Myeloids: Pro-inflammatory",18
+"SMC14","Myeloids: Pro-inflammatory",100
+"SMC15","Myeloids: Pro-inflammatory",53
+"SMC16","Myeloids: Pro-inflammatory",18
+"SMC17","Myeloids: Pro-inflammatory",100
+"SMC18","Myeloids: Pro-inflammatory",28
+"SMC19","Myeloids: Pro-inflammatory",7
+"SMC20","Myeloids: Pro-inflammatory",83
+"SMC21","Myeloids: Pro-inflammatory",15
+"SMC22","Myeloids: Pro-inflammatory",43
+"SMC23","Myeloids: Pro-inflammatory",69
+"SMC24","Myeloids: Pro-inflammatory",100
+"SMC25","Myeloids: Pro-inflammatory",31
+"SMC01","Myeloids: Proliferating",3
+"SMC02","Myeloids: Proliferating",6
+"SMC03","Myeloids: Proliferating",5
+"SMC04","Myeloids: Proliferating",13
+"SMC05","Myeloids: Proliferating",0
+"SMC06","Myeloids: Proliferating",5
+"SMC07","Myeloids: Proliferating",32
+"SMC08","Myeloids: Proliferating",1
+"SMC09","Myeloids: Proliferating",10
+"SMC10","Myeloids: Proliferating",42
+"SMC11","Myeloids: Proliferating",3
+"SMC14","Myeloids: Proliferating",4
+"SMC15","Myeloids: Proliferating",4
+"SMC16","Myeloids: Proliferating",2
+"SMC17","Myeloids: Proliferating",8
+"SMC18","Myeloids: Proliferating",2
+"SMC19","Myeloids: Proliferating",0
+"SMC20","Myeloids: Proliferating",5
+"SMC21","Myeloids: Proliferating",5
+"SMC22","Myeloids: Proliferating",3
+"SMC23","Myeloids: Proliferating",6
+"SMC24","Myeloids: Proliferating",4
+"SMC25","Myeloids: Proliferating",2
+"SMC01","Myeloids: SPP1+",64
+"SMC02","Myeloids: SPP1+",100
+"SMC03","Myeloids: SPP1+",100
+"SMC04","Myeloids: SPP1+",100
+"SMC05","Myeloids: SPP1+",11
+"SMC06","Myeloids: SPP1+",100
+"SMC07","Myeloids: SPP1+",100
+"SMC08","Myeloids: SPP1+",100
+"SMC09","Myeloids: SPP1+",100
+"SMC10","Myeloids: SPP1+",100
+"SMC11","Myeloids: SPP1+",39
+"SMC14","Myeloids: SPP1+",100
+"SMC15","Myeloids: SPP1+",63
+"SMC16","Myeloids: SPP1+",21
+"SMC17","Myeloids: SPP1+",100
+"SMC18","Myeloids: SPP1+",37
+"SMC19","Myeloids: SPP1+",14
+"SMC20","Myeloids: SPP1+",100
+"SMC21","Myeloids: SPP1+",35
+"SMC22","Myeloids: SPP1+",31
+"SMC23","Myeloids: SPP1+",100
+"SMC24","Myeloids: SPP1+",100
+"SMC25","Myeloids: SPP1+",26
+"SMC01","Myeloids: Unknown",33
+"SMC02","Myeloids: Unknown",36
+"SMC03","Myeloids: Unknown",8
+"SMC04","Myeloids: Unknown",35
+"SMC05","Myeloids: Unknown",4
+"SMC06","Myeloids: Unknown",6
+"SMC07","Myeloids: Unknown",56
+"SMC08","Myeloids: Unknown",21
+"SMC09","Myeloids: Unknown",33
+"SMC10","Myeloids: Unknown",84
+"SMC11","Myeloids: Unknown",8
+"SMC14","Myeloids: Unknown",30
+"SMC15","Myeloids: Unknown",9
+"SMC16","Myeloids: Unknown",4
+"SMC17","Myeloids: Unknown",15
+"SMC18","Myeloids: Unknown",3
+"SMC19","Myeloids: Unknown",3
+"SMC20","Myeloids: Unknown",28
+"SMC21","Myeloids: Unknown",4
+"SMC22","Myeloids: Unknown",2
+"SMC23","Myeloids: Unknown",15
+"SMC24","Myeloids: Unknown",20
+"SMC25","Myeloids: Unknown",4
+"SMC01","Myeloids: cDC",9
+"SMC02","Myeloids: cDC",31
+"SMC03","Myeloids: cDC",7
+"SMC04","Myeloids: cDC",30
+"SMC05","Myeloids: cDC",1
+"SMC06","Myeloids: cDC",5
+"SMC07","Myeloids: cDC",32
+"SMC08","Myeloids: cDC",12
+"SMC09","Myeloids: cDC",16
+"SMC10","Myeloids: cDC",19
+"SMC11","Myeloids: cDC",8
+"SMC14","Myeloids: cDC",39
+"SMC15","Myeloids: cDC",19
+"SMC16","Myeloids: cDC",1
+"SMC17","Myeloids: cDC",17
+"SMC18","Myeloids: cDC",9
+"SMC19","Myeloids: cDC",6
+"SMC20","Myeloids: cDC",23
+"SMC21","Myeloids: cDC",3
+"SMC22","Myeloids: cDC",7
+"SMC23","Myeloids: cDC",23
+"SMC24","Myeloids: cDC",23
+"SMC25","Myeloids: cDC",13
+"SMC01","Stromal cells",5
+"SMC02","Stromal cells",5
+"SMC03","Stromal cells",1
+"SMC04","Stromal cells",15
+"SMC05","Stromal cells",1
+"SMC06","Stromal cells",2
+"SMC07","Stromal cells",11
+"SMC08","Stromal cells",2
+"SMC09","Stromal cells",2
+"SMC10","Stromal cells",6
+"SMC11","Stromal cells",0
+"SMC14","Stromal cells",12
+"SMC15","Stromal cells",17
+"SMC16","Stromal cells",2
+"SMC17","Stromal cells",7
+"SMC18","Stromal cells",0
+"SMC19","Stromal cells",0
+"SMC20","Stromal cells",0
+"SMC21","Stromal cells",0
+"SMC22","Stromal cells",1
+"SMC23","Stromal cells",2
+"SMC24","Stromal cells",3
+"SMC25","Stromal cells",1
+"SMC01","Stromal cells: Myofibroblasts",69
+"SMC02","Stromal cells: Myofibroblasts",42
+"SMC03","Stromal cells: Myofibroblasts",78
+"SMC04","Stromal cells: Myofibroblasts",32
+"SMC05","Stromal cells: Myofibroblasts",5
+"SMC06","Stromal cells: Myofibroblasts",65
+"SMC07","Stromal cells: Myofibroblasts",26
+"SMC08","Stromal cells: Myofibroblasts",100
+"SMC09","Stromal cells: Myofibroblasts",12
+"SMC10","Stromal cells: Myofibroblasts",64
+"SMC11","Stromal cells: Myofibroblasts",9
+"SMC14","Stromal cells: Myofibroblasts",100
+"SMC15","Stromal cells: Myofibroblasts",81
+"SMC16","Stromal cells: Myofibroblasts",3
+"SMC17","Stromal cells: Myofibroblasts",74
+"SMC18","Stromal cells: Myofibroblasts",1
+"SMC19","Stromal cells: Myofibroblasts",2
+"SMC20","Stromal cells: Myofibroblasts",100
+"SMC21","Stromal cells: Myofibroblasts",2
+"SMC22","Stromal cells: Myofibroblasts",1
+"SMC23","Stromal cells: Myofibroblasts",5
+"SMC24","Stromal cells: Myofibroblasts",22
+"SMC25","Stromal cells: Myofibroblasts",1
+"SMC01","Stromal cells: Pericytes",19
+"SMC02","Stromal cells: Pericytes",5
+"SMC03","Stromal cells: Pericytes",6
+"SMC04","Stromal cells: Pericytes",19
+"SMC05","Stromal cells: Pericytes",4
+"SMC06","Stromal cells: Pericytes",10
+"SMC07","Stromal cells: Pericytes",40
+"SMC08","Stromal cells: Pericytes",7
+"SMC09","Stromal cells: Pericytes",9
+"SMC10","Stromal cells: Pericytes",16
+"SMC11","Stromal cells: Pericytes",10
+"SMC14","Stromal cells: Pericytes",23
+"SMC15","Stromal cells: Pericytes",71
+"SMC16","Stromal cells: Pericytes",2
+"SMC17","Stromal cells: Pericytes",54
+"SMC18","Stromal cells: Pericytes",0
+"SMC19","Stromal cells: Pericytes",3
+"SMC20","Stromal cells: Pericytes",39
+"SMC21","Stromal cells: Pericytes",0
+"SMC22","Stromal cells: Pericytes",2
+"SMC23","Stromal cells: Pericytes",5
+"SMC24","Stromal cells: Pericytes",7
+"SMC25","Stromal cells: Pericytes",2
+"SMC01","Stromal cells: Smooth muscle cells",0
+"SMC02","Stromal cells: Smooth muscle cells",1
+"SMC03","Stromal cells: Smooth muscle cells",0
+"SMC04","Stromal cells: Smooth muscle cells",5
+"SMC05","Stromal cells: Smooth muscle cells",1
+"SMC06","Stromal cells: Smooth muscle cells",1
+"SMC07","Stromal cells: Smooth muscle cells",6
+"SMC08","Stromal cells: Smooth muscle cells",1
+"SMC09","Stromal cells: Smooth muscle cells",2
+"SMC10","Stromal cells: Smooth muscle cells",8
+"SMC11","Stromal cells: Smooth muscle cells",0
+"SMC14","Stromal cells: Smooth muscle cells",37
+"SMC15","Stromal cells: Smooth muscle cells",11
+"SMC16","Stromal cells: Smooth muscle cells",2
+"SMC17","Stromal cells: Smooth muscle cells",4
+"SMC18","Stromal cells: Smooth muscle cells",0
+"SMC19","Stromal cells: Smooth muscle cells",4
+"SMC20","Stromal cells: Smooth muscle cells",7
+"SMC21","Stromal cells: Smooth muscle cells",0
+"SMC22","Stromal cells: Smooth muscle cells",0
+"SMC23","Stromal cells: Smooth muscle cells",1
+"SMC24","Stromal cells: Smooth muscle cells",0
+"SMC25","Stromal cells: Smooth muscle cells",0
+"SMC01","Stromal cells: Stalk-like ECs",19
+"SMC02","Stromal cells: Stalk-like ECs",15
+"SMC03","Stromal cells: Stalk-like ECs",25
+"SMC04","Stromal cells: Stalk-like ECs",50
+"SMC05","Stromal cells: Stalk-like ECs",2
+"SMC06","Stromal cells: Stalk-like ECs",1
+"SMC07","Stromal cells: Stalk-like ECs",37
+"SMC08","Stromal cells: Stalk-like ECs",17
+"SMC09","Stromal cells: Stalk-like ECs",9
+"SMC10","Stromal cells: Stalk-like ECs",13
+"SMC11","Stromal cells: Stalk-like ECs",6
+"SMC14","Stromal cells: Stalk-like ECs",57
+"SMC15","Stromal cells: Stalk-like ECs",21
+"SMC16","Stromal cells: Stalk-like ECs",2
+"SMC17","Stromal cells: Stalk-like ECs",23
+"SMC18","Stromal cells: Stalk-like ECs",4
+"SMC19","Stromal cells: Stalk-like ECs",4
+"SMC20","Stromal cells: Stalk-like ECs",10
+"SMC21","Stromal cells: Stalk-like ECs",0
+"SMC22","Stromal cells: Stalk-like ECs",5
+"SMC23","Stromal cells: Stalk-like ECs",4
+"SMC24","Stromal cells: Stalk-like ECs",5
+"SMC25","Stromal cells: Stalk-like ECs",13
+"SMC01","Stromal cells: Stromal 1",5
+"SMC02","Stromal cells: Stromal 1",3
+"SMC03","Stromal cells: Stromal 1",1
+"SMC04","Stromal cells: Stromal 1",1
+"SMC05","Stromal cells: Stromal 1",0
+"SMC06","Stromal cells: Stromal 1",1
+"SMC07","Stromal cells: Stromal 1",11
+"SMC08","Stromal cells: Stromal 1",4
+"SMC09","Stromal cells: Stromal 1",1
+"SMC10","Stromal cells: Stromal 1",19
+"SMC11","Stromal cells: Stromal 1",2
+"SMC14","Stromal cells: Stromal 1",2
+"SMC15","Stromal cells: Stromal 1",9
+"SMC16","Stromal cells: Stromal 1",0
+"SMC17","Stromal cells: Stromal 1",0
+"SMC18","Stromal cells: Stromal 1",0
+"SMC19","Stromal cells: Stromal 1",5
+"SMC20","Stromal cells: Stromal 1",2
+"SMC21","Stromal cells: Stromal 1",0
+"SMC22","Stromal cells: Stromal 1",0
+"SMC23","Stromal cells: Stromal 1",3
+"SMC24","Stromal cells: Stromal 1",4
+"SMC25","Stromal cells: Stromal 1",0
+"SMC01","Stromal cells: Stromal 2",19
+"SMC02","Stromal cells: Stromal 2",17
+"SMC03","Stromal cells: Stromal 2",0
+"SMC04","Stromal cells: Stromal 2",5
+"SMC05","Stromal cells: Stromal 2",0
+"SMC06","Stromal cells: Stromal 2",0
+"SMC07","Stromal cells: Stromal 2",27
+"SMC08","Stromal cells: Stromal 2",2
+"SMC09","Stromal cells: Stromal 2",1
+"SMC10","Stromal cells: Stromal 2",7
+"SMC11","Stromal cells: Stromal 2",11
+"SMC14","Stromal cells: Stromal 2",2
+"SMC15","Stromal cells: Stromal 2",16
+"SMC16","Stromal cells: Stromal 2",13
+"SMC17","Stromal cells: Stromal 2",2
+"SMC18","Stromal cells: Stromal 2",0
+"SMC19","Stromal cells: Stromal 2",17
+"SMC20","Stromal cells: Stromal 2",4
+"SMC21","Stromal cells: Stromal 2",2
+"SMC22","Stromal cells: Stromal 2",3
+"SMC23","Stromal cells: Stromal 2",6
+"SMC24","Stromal cells: Stromal 2",1
+"SMC25","Stromal cells: Stromal 2",3
+"SMC01","Stromal cells: Stromal 3",0
+"SMC02","Stromal cells: Stromal 3",2
+"SMC03","Stromal cells: Stromal 3",100
+"SMC04","Stromal cells: Stromal 3",1
+"SMC05","Stromal cells: Stromal 3",3
+"SMC06","Stromal cells: Stromal 3",1
+"SMC07","Stromal cells: Stromal 3",2
+"SMC08","Stromal cells: Stromal 3",0
+"SMC09","Stromal cells: Stromal 3",0
+"SMC10","Stromal cells: Stromal 3",3
+"SMC11","Stromal cells: Stromal 3",0
+"SMC14","Stromal cells: Stromal 3",0
+"SMC15","Stromal cells: Stromal 3",9
+"SMC16","Stromal cells: Stromal 3",0
+"SMC17","Stromal cells: Stromal 3",0
+"SMC18","Stromal cells: Stromal 3",1
+"SMC19","Stromal cells: Stromal 3",0
+"SMC20","Stromal cells: Stromal 3",0
+"SMC21","Stromal cells: Stromal 3",0
+"SMC22","Stromal cells: Stromal 3",0
+"SMC23","Stromal cells: Stromal 3",0
+"SMC24","Stromal cells: Stromal 3",1
+"SMC25","Stromal cells: Stromal 3",0
+"SMC01","Stromal cells: Tip-like ECs",18
+"SMC02","Stromal cells: Tip-like ECs",15
+"SMC03","Stromal cells: Tip-like ECs",6
+"SMC04","Stromal cells: Tip-like ECs",21
+"SMC05","Stromal cells: Tip-like ECs",0
+"SMC06","Stromal cells: Tip-like ECs",2
+"SMC07","Stromal cells: Tip-like ECs",49
+"SMC08","Stromal cells: Tip-like ECs",5
+"SMC09","Stromal cells: Tip-like ECs",9
+"SMC10","Stromal cells: Tip-like ECs",22
+"SMC11","Stromal cells: Tip-like ECs",15
+"SMC14","Stromal cells: Tip-like ECs",31
+"SMC15","Stromal cells: Tip-like ECs",71
+"SMC16","Stromal cells: Tip-like ECs",5
+"SMC17","Stromal cells: Tip-like ECs",39
+"SMC18","Stromal cells: Tip-like ECs",1
+"SMC19","Stromal cells: Tip-like ECs",2
+"SMC20","Stromal cells: Tip-like ECs",13
+"SMC21","Stromal cells: Tip-like ECs",0
+"SMC22","Stromal cells: Tip-like ECs",4
+"SMC23","Stromal cells: Tip-like ECs",7
+"SMC24","Stromal cells: Tip-like ECs",12
+"SMC25","Stromal cells: Tip-like ECs",7
+"SMC01","T cells",100
+"SMC02","T cells",100
+"SMC03","T cells",100
+"SMC04","T cells",100
+"SMC05","T cells",100
+"SMC06","T cells",100
+"SMC07","T cells",100
+"SMC08","T cells",100
+"SMC09","T cells",100
+"SMC10","T cells",100
+"SMC11","T cells",100
+"SMC14","T cells",100
+"SMC15","T cells",100
+"SMC16","T cells",100
+"SMC17","T cells",100
+"SMC18","T cells",100
+"SMC19","T cells",100
+"SMC20","T cells",100
+"SMC21","T cells",100
+"SMC22","T cells",100
+"SMC23","T cells",100
+"SMC24","T cells",100
+"SMC25","T cells",100

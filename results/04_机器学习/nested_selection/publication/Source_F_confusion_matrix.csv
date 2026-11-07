@@ -1,0 +1,5 @@
+"Observed","Predicted","Freq","RowPercent"
+"Normal","Normal",24,100
+"Tumor","Normal",27,75
+"Normal","Tumor",0,0
+"Tumor","Tumor",9,25
