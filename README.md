@@ -32,4 +32,4 @@ The pQTL manuscript candidate set used an unadjusted IVW P < 0.05 intersected wi
 
 ## Release procedure
 
-Before public release, complete [metadata/RELEASE_CHECKLIST.md](metadata/RELEASE_CHECKLIST.md), choose an explicit code license, create a tagged GitHub release, and archive that exact release with Zenodo to obtain a DOI. Replace the placeholders in `CITATION.cff` and the manuscript availability statements with the final repository URL and DOI.
+Before manuscript submission, complete [metadata/RELEASE_CHECKLIST.md](metadata/RELEASE_CHECKLIST.md), choose an explicit code license, create a tagged GitHub release, and archive that exact release with Zenodo to obtain a DOI. Replace the Zenodo DOI placeholder in the manuscript availability statement after archival.
